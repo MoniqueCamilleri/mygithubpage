@@ -1,0 +1,17 @@
+
+<div class="scrollable">  
+  <div class="scrollable-content">
+
+Monique can make this thing look pretty
+
+<br><br>
+<button ng-click="showPrev()" >Last</button>
+
+<br>			
+<div ng-model="output" ng-swipe-left='showNext();' ng-swipe-right='showPrev();' class="quote">{{output}}</div>
+<p class="quoter"></p>
+
+<button ng-click="showNext()" >Next</button>
+
+  </div>
+</div>
