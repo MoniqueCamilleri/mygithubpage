@@ -66,6 +66,10 @@ h6,
   min-height: 80px;
 }
 
+.navbar-app .navbar-absolute-bottom {
+  height: 50px;
+}
+
 .navbar-app .btn-navbar,
 .navbar-app .btn {
   color: #fff;
@@ -140,7 +144,7 @@ h6,
 }
 
 .quote-content {
-  position: relative;
+  position: absolute;
   top: 50%;
   transform: translateY(-50%);
 }
@@ -264,6 +268,15 @@ button {
   background-repeat: no-repeat;
   width: 52px;
   height: 52px;
+}
+
+
+.footer {
+  margin: 0 auto;
+}
+
+.footer p {
+  text-align: center;
 }
 
 /* Media Queries for Responsiveness */
