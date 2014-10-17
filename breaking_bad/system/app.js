@@ -11,7 +11,9 @@ app.config(function($routeProvider, $locationProvider) {
 						templateUrl: "partials/home.html",
 						controller: 'MainController',
 					 });
- // $routeProvider.when('/scroll'  {templateUrl: "partials/scroll.html"}); 
+ $routeProvider.when('/about', {
+            templateUrl: "partials/about.html"
+           }); 
  // $routeProvider.when('/toggle',    {templateUrl: "partials/toggle.html"}); 
  // $routeProvider.when('/tabs',      {templateUrl: "partials/tabs.html"}); 
  // $routeProvider.when('/accordion', {templateUrl: "partials/accordion.html"}); 

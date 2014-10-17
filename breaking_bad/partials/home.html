@@ -1,17 +1,16 @@
 
 <div class="scrollable">  
   <div class="scrollable-content">
-
-Monique can make this thing look pretty
-
-<br><br>
-<button ng-click="showPrev()" >Last</button>
-
-<br>			
-<div ng-model="output" ng-swipe-left='showNext();' ng-swipe-right='showPrev();' class="quote">{{output}}</div>
-<p class="quoter"></p>
-
-<button ng-click="showNext()" >Next</button>
-
+	  <div class="home-background">
+		  <div class="quote-container">
+			<div class="quote-content">
+		      <button ng-click="showPrev()" class="btn-previous"></button>
+		        <div ng-model="output" ng-swipe-left='showNext();' ng-swipe-right='showPrev();' class="quote">{{outputquote}} - <b>{{outputname}}</b></div>
+		
+				<p class="quoter"></p>
+		      <button ng-click="showNext()" class="btn-next"></button>
+		    </div>
+		  </div>
+	  </div>
   </div>
 </div>
