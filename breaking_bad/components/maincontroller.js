@@ -68,7 +68,9 @@ function init(){
 			$scope.autoTrack = function(Number) {
 				var nextCharName = $scope.quotesArray[Number].name;
 				var nextCharQoute = $scope.quotesArray[Number].quote;
-				$scope.output =  nextCharName+":- "+nextCharQoute;
+				$scope.outputQuote =  nextCharQoute;
+				$scope.outputName =  nextCharName;
+				
 				//alert($scope.output);
         }
 	//-------------------------------------Handle Click------------------------------------//
