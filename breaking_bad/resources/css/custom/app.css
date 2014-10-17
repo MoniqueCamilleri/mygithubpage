@@ -145,8 +145,8 @@ h6,
 
 .quote-content {
   position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
+  top: 20px;
+  /*transform: translateY(-50%);*/
 }
 
 .quote {
@@ -154,6 +154,7 @@ h6,
   width: 70%;
   margin: auto;
 }
+
 
 .quoter {
   color:#295127;
@@ -359,7 +360,7 @@ button {
   .quote-container {
   margin: 3em 0 0 1.8em;
   width: 85%;
-  height: 68%;
+  height: 75%;
   }
 
   .quote {
