@@ -3,12 +3,14 @@
   <div class="scrollable-content">
 	  <div class="home-background">
 		  <div class="quote-container">
-			<div class="quote-content">
 		      <button ng-click="showPrev()" class="btn-previous"></button>
+			<div class="quote-content">
+		  
 		        <div ng-model="output" ng-swipe-left='showNext();' ng-swipe-right='showPrev();' class="quote">{{outputQuote}} - <b>{{outputName}}</b></div>
 				<p class="quoter"></p>
-		      <button ng-click="showNext()" class="btn-next"></button>
+		     
 		    </div>
+			<button ng-click="showNext()" class="btn-next"></button>
 		  </div>
 	  </div>
   </div>
