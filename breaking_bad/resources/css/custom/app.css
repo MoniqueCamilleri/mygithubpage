@@ -57,6 +57,14 @@ h6,
   background: #fff;
 }
 
+.scrollable-content {
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+
 /* App Header Style Overrides */
 
 .navbar-app {
@@ -137,7 +145,7 @@ h6,
   position: absolute;
   height: 25em;
   width: 85%;
-  height: 75%;
+  height: 90%;
   background: rgba(255,255,255,0.5);
   border-radius: 10px;
   text-align: center;
@@ -145,8 +153,13 @@ h6,
 
 .quote-content {
   position: absolute;
-  top: 20px;
-  /*transform: translateY(-50%);*/
+  width: 100%;
+  top: 45%;
+  -webkit-transform:translate(0, -50%);
+   -moz-transform:translate(0, -50%);
+    -ms-transform:translate(0, -50%);
+     -o-transform:translate(0, -50%);
+        transform:translate(0, -50%);
 }
 
 .quote {
@@ -154,7 +167,6 @@ h6,
   width: 70%;
   margin: auto;
 }
-
 
 .quoter {
   color:#295127;
@@ -172,8 +184,12 @@ button {
   height: 55px;
   position: absolute;
   right: 10px;
-  top: 50%;
-  transform: translateY(-50%);
+  top: 45%;
+  -webkit-transform:translate(0, -50%);
+   -moz-transform:translate(0, -50%);
+    -ms-transform:translate(0, -50%);
+     -o-transform:translate(0, -50%);
+        transform:translate(0, -50%);
 }
 
 .btn-previous {
@@ -182,8 +198,12 @@ button {
   height: 55px;
   position: absolute;
   left: 10px;
-  top: 50%;
-  transform: translateY(-50%);
+  top: 45%;
+  -webkit-transform:translate(0, -50%);
+   -moz-transform:translate(0, -50%);
+    -ms-transform:translate(0, -50%);
+     -o-transform:translate(0, -50%);
+        transform:translate(0, -50%);
 }
 
 /* About Us Styles */
@@ -360,7 +380,7 @@ button {
   .quote-container {
   margin: 3em 0 0 1.8em;
   width: 85%;
-  height: 75%;
+  height: 90%;
   }
 
   .quote {
