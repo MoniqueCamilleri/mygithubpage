@@ -25,8 +25,8 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
 function init(){
 				console.log('Main Controller is working fine');
 				$scope.conn = true;
-				url = "";
-				myNotices.getMsg(url).then(function(data) { //success
+				$scope.url = "";
+				myNotices.getMsg().then(function(data) { //success
 					$scope.quotesArray = data;
 					$scope.random();		
 				},
