@@ -5,7 +5,7 @@ app.factory('myNotices', function($http, $q, $timeout) {
 		//	$http.get('resources/data.json')
 		   var url = "https://api.myjson.com/bins/3sjud.json";
 
-    $http.jsonp(url)
+    $http.get(url)
 				.success(function(data) {
 					deferred.resolve(data); //resolves the promise
 				})
