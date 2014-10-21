@@ -3,7 +3,7 @@ app.factory('myNotices', function($http, $q, $timeout) {
 		getMsg: function() {	    
 			var deferred = $q.defer();
 		//	$http.get('resources/data.json')
-		   var url = "https://raw.githubusercontent.com/HaydenSookchand/mygithubpage/gh-pages/breaking_bad/resources/data.json" + "?callback=JSON_CALLBACK";
+		   var url = "https://raw.githubusercontent.com/HaydenSookchand/mygithubpage/gh-pages/breaking_bad/resources/data.json";
 
     $http.jsonp(url)
 				.success(function(data) {
