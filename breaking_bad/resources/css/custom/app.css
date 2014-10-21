@@ -217,9 +217,13 @@ button {
 .divider span {
   background-color: #fff;
   position: relative;
-  left: 44%;
-  transform: translateX(-50%);
   top: -1.8em;
+  left: 44%;
+  -webkit-transform:translateX(-50%);
+   -moz-transform:translateX(-50%);
+    -ms-transform:translateX(-50%);
+     -o-transform:translateX(-50%);
+        transform:translateX(-50%);
 }
 
 /* Favourites Bar */
@@ -302,7 +306,7 @@ button {
 
 /* Media Queries for Responsiveness */
 
-@media (min-width: 480px) {
+@media (max-width: 480px) {
 
   .navbar-brand #logo {
     background-image: url('../../../resources/img/logo.png');
@@ -311,6 +315,11 @@ button {
     width: 200px;
     height: 41px;
     top: 4px;
+  }
+  
+  .quote {
+    font-size: 1.2em;
+    width: 59%;
   }
 
   .divider span {
@@ -352,7 +361,7 @@ button {
 
 }
 
-@media (min-width: 320px) {
+@media only screen and (max-width : 321px) {
 
   .home-background {
   background-image: url('../../../resources/img/bg-images/10.jpg');
@@ -384,7 +393,7 @@ button {
   }
 
   .quote {
-    font-size: 1em;
+    font-size: 1.2em;
     width: 59%;
   }
 

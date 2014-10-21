@@ -12,12 +12,12 @@
     {
         "season": 1,
         "name": "Walter",
-        "quote": "Short speech. You lost your partner today. What's his name – Emilio? Emilio is going to prison. The DEA took all your money, your lab. You got nothing. Square one. But you know the business and I know the chemistry. I'm thinking...maybe you and I could partner up"
+        "quote": "Short speech. You lost your partner today. What's his name–Emilio? Emilio is going to prison. The DEA took all your money, your lab. You got nothing. Square one. But you know the business and I know the chemistry. I'm thinking...maybe you and I could partner up"
     },
     {
         "season": 1,
         "name": "Jesse",
-        "quote": "o. You flunked me, remember? You prick! Now let me tell you something else. This ain't chemistry – this is art. Cooking is art. And the shit I cook is the bomb, so don't be telling me."
+        "quote": "No. You flunked me, remember? You prick! Now let me tell you something else. This ain't chemistry–this is art. Cooking is art. And the shit I cook is the bomb, so don't be telling me."
     },
     {
         "season": 1,
@@ -27,7 +27,7 @@
     {
         "season": 1,
         "name": "Jesse",
-        "quote": "Some straight like you, giant stick up his ass, age what – 60? He's just gonna break bad?"
+        "quote": "Some straight like you, giant stick up his ass, age what–60? He's just gonna break bad?"
     },
     {
         "season": 1,
@@ -139,16 +139,7 @@
         "name": "Walter Jr.",
         "quote": "Then why don't you just fucking die already? Just give up and die."
     },
-    {
-        "season": 1,
-        "name": "Walter",
-        "quote": "I'm sorry, what were you asking me? Oh, yes, that stupid plastic container I asked you to buy. You see, hydrofluoric acid won't eat through plastic. It will, however, dissolve metal, rock, glass and ceramic. So there's that.."
-    },
-    {
-        "season": 1,
-        "name": "Jesse",
-        "quote": " Oh well, heil Hitler, bitch! And let me tell you something else. We flipped a coin, okay? You and me. You and me! Coin flip is sacred! Your job is waiting for you in that basement, as per the coin!"
-    },
+   
     {
         "season": 1,
         "name": "Hank",
