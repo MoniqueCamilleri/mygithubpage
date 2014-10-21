@@ -3,7 +3,9 @@ app.factory('myNotices', function($http, $q, $timeout) {
 		getMsg: function() {	    
 			var deferred = $q.defer();
 		//	$http.get('resources/data.json')
-			$http.get('https://github.com/HaydenSookchand/mygithubpage/blob/gh-pages/breaking_bad/resources/data.json')
+		   var url = "http://github.com/HaydenSookchand/mygithubpage/blob/gh-pages/breaking_bad/resources/data.json";
+
+    $http.jsonp(url)
 				.success(function(data) {
 					deferred.resolve(data); //resolves the promise
 				})
