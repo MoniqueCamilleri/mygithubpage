@@ -1,9 +1,10 @@
 app.factory('myNotices', function($http, $q, $timeout) {
 	alert($scope.url);
    return {
-		getMsg: function() {	    
+		getMsg: function(id) {	    
 			var deferred = $q.defer();
 		//	$http.get('resources/data.json')
+		alert(id);
 		   var url = "https://api.myjson.com/bins/3sjud.json";
 
     $http.get(url)
