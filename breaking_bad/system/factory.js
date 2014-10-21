@@ -1,5 +1,5 @@
 app.factory('myNotices', function($http, $q, $timeout) {
-	alert($scope.url);
+//	alert($scope.url);
    return {
 		getMsg: function(id) {	    
 			var deferred = $q.defer();
