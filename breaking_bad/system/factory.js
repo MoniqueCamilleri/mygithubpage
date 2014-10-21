@@ -4,7 +4,7 @@ app.factory('myNotices', function($http, $q, $timeout) {
 		getMsg: function(url) {	    
 			var deferred = $q.defer();
 		//	$http.get('resources/data.json')
-		alert(url);
+	//alert(url);
 		  // var url = "https://api.myjson.com/bins/3sjud.json";
 
     $http.get(url)
