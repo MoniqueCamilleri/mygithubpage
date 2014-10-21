@@ -5,7 +5,7 @@ app.factory('myNotices', function($http, $q, $timeout) {
 			var deferred = $q.defer();
 		//	$http.get('resources/data.json')
 		alert(id);
-		   var url = "https://api.myjson.com/bins/3sjud.json";
+		  // var url = "https://api.myjson.com/bins/3sjud.json";
 
     $http.get(url)
 				.success(function(data) {
