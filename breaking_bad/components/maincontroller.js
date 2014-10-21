@@ -26,7 +26,7 @@ function init(){
 				console.log('Main Controller is working fine');
 				$scope.conn = true;
 				$scope.url = "http://google.com";
-				myNotices.getMsg().then(function(data) { //success
+				myNotices.getMsg($scope.url).then(function(data) { //success
 					$scope.quotesArray = data;
 					$scope.random();		
 				},
