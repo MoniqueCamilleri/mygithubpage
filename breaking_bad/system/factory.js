@@ -1,12 +1,12 @@
-app.factory('myNotices', function($http, $q, $timeout,$scope) {
+app.factory('myNotices', function($http, $q, $timeout) {
 	alert($scope.url);
    return {
 		getMsg: function() {	    
 			var deferred = $q.defer();
 		//	$http.get('resources/data.json')
-		   //var url = "https://api.myjson.com/bins/3sjud.json";
+		   var url = "https://api.myjson.com/bins/3sjud.json";
 
-    $http.get($scope.url)
+    $http.get(url)
 				.success(function(data) {
 					deferred.resolve(data); //resolves the promise
 				})
