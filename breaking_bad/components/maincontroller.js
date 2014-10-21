@@ -25,7 +25,7 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
 function init(){
 				console.log('Main Controller is working fine');
 				$scope.conn = true;
-				$scope.url = "http://google.com";
+				$scope.url = "https://api.myjson.com/bins/3sjud.json";
 				myNotices.getMsg($scope.url).then(function(data) { //success
 					$scope.quotesArray = data;
 					$scope.random();		
