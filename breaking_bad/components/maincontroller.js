@@ -1,7 +1,7 @@
 'use strict';
-   
+
 function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) {
-	
+
 	$rootScope.$on("$routeChangeStart", function(){
 		$rootScope.loading = true;
 	});
@@ -20,17 +20,37 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
   $scope.invoice = {payed: true};
   $scope.userAgent =  navigator.userAgent;
 //-------------------------------------Handle Click------------------------------------//
-  init();  
+  init();
+  test();
+
+  function test(){
+
+  $scope.url ="resources/notices.json";
+  myNotices.getMsg($scope.url).then(function(notice) { //success
+          $scope.noticeArray = notice;
+          $scope.notice = $scope.noticeArray[0].link;
+          $scope.dlink = $scope.noticeArray[0].notice;
+         // $scope.random();
+          },
+        function(data) { //failure
+          $scope.conn = false;
+          //connection has failed and backup has failed , something is seriously wrong
+          });
+
+     }
+
+
+
 
 function init(){
 				console.log('Main Controller initialized');
 				$scope.conn = true;
 				//$scope.url = "https://api.myjson.com/bins/28ufx.json";
 				$scope.url ="https://cdn.rawgit.com/HaydenSookchand/mygithubpage/gh-pages/breaking_bad/resources/data.json";
-				
+
 				myNotices.getMsg($scope.url).then(function(data) { //success
 					$scope.quotesArray = data;
-					$scope.random();		
+					$scope.random();
 				},
 				function(data) { //failure
 					$scope.conn = false;
@@ -46,36 +66,36 @@ function init(){
 					//connection has failed and backup has failed , something is seriously wrong
 		          });
         		});
-				
-	    //-----------------------------------Randomly choose a quote------------------------------------//		
+
+	    //-----------------------------------Randomly choose a quote------------------------------------//
 		$scope.random = function() {
 				$scope.maxNumber = $scope.quotesArray.length - 1;
 				$scope.Number = Math.floor((Math.random() * $scope.maxNumber) + 0);
 				$scope.autoTrack($scope.Number);
 				console.log('Random function initialized');
 		}
-	
-	//-------------------------------------Go to the next quote------------------------------------//	
-	
+
+	//-------------------------------------Go to the next quote------------------------------------//
+
 		$scope.showNext = function() {
-		    $scope.Number = $scope.Number + 1				
+		    $scope.Number = $scope.Number + 1
 			// if number is equal to the highest number then reset to 0
 				if ($scope.Number == $scope.maxNumber) {
 					$scope.Number = 0;
-				}	
+				}
 			$scope.autoTrack($scope.Number);
         }
-	
-	//-------------------------------------Go to the previous quote------------------------------------//	
+
+	//-------------------------------------Go to the previous quote------------------------------------//
 		$scope.showPrev = function() {
-		    $scope.Number = $scope.Number - 1		
+		    $scope.Number = $scope.Number - 1
 				//if number is less than 0 then loop to the maxNumber
 				if ($scope.Number <= 0) {
 				   $scope.Number = $scope.maxNumber;
 				}
 				$scope.autoTrack($scope.Number);
         }
-	//-------------------------------Take Latest Number and add to output------------------------------------//		
+	//-------------------------------Take Latest Number and add to output------------------------------------//
 			$scope.autoTrack = function(Number) {
 				var nextCharName = $scope.quotesArray[Number].name;
 				var nextCharQoute = $scope.quotesArray[Number].quote;
@@ -84,7 +104,7 @@ function init(){
 				//console.log($scope.output);
         }
 	//-------------------------------------Handle Click------------------------------------//
-				
-				
+
+
 	}
-} 							
+}
