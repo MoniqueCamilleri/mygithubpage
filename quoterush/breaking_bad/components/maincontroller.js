@@ -30,8 +30,20 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
   $scope.url ="https://cdn.rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/notice_bar/notice.json";
   myNotices.getMsg($scope.url).then(function(notice) { //success
           $scope.noticeArray = notice;
+		  
+		  $scope.name = $scope.noticeArray[0].name;
+		  
+		  if ($scope.name != "breakingbad"){
           $scope.notice = $scope.noticeArray[0].link;
           $scope.dlink = $scope.noticeArray[0].notice;
+		  $scope.status = $scope.noticeArray[0].status;
+		 }
+		 else{
+		  $scope.notice = $scope.noticeArray[1].link;
+          $scope.dlink = $scope.noticeArray[1].notice;
+		  $scope.status = $scope.noticeArray[1].status;
+		 }
+		  
           },
         function(data) { //failure
           $scope.conn = false;
