@@ -27,21 +27,22 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
 //------------------------------------- Noticebar------------------------------------//
   function noticebar(){
 
-  $scope.url ="https://cdn.rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/notice_bar/notice.json";
+  //$scope.url ="https://cdn.rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/notice_bar/notice.json";
+    $scope.url = "notice.json";
   myNotices.getMsg($scope.url).then(function(notice) { //success
           $scope.noticeArray = notice;
+		  $scope.numOfNotice = $scope.noticeArray.length - 1; // get total number of quotes in array
+		  $scope.check = Math.floor((Math.random() * $scope.numOfNotice) + 0);
+		  $scope.appname = $scope.noticeArray[$scope.check].appname;
 		  
-		  $scope.name = $scope.noticeArray[0].name;
-		  
-		  if ($scope.name != "breakingbad"){
-          $scope.notice = $scope.noticeArray[0].link;
-          $scope.dlink = $scope.noticeArray[0].notice;
-		  $scope.status = $scope.noticeArray[0].status;
-		 }
-		 else{
-		  $scope.notice = $scope.noticeArray[1].link;
-          $scope.dlink = $scope.noticeArray[1].notice;
-		  $scope.status = $scope.noticeArray[1].status;
+		  if ($scope.appname != "breakingbad"){
+			$scope.link = $scope.noticeArray[$scope.check].link;
+			$scope.app_icon = $scope.noticeArray[$scope.check].app_icon;
+			$scope.status = $scope.noticeArray[$scope.check].status;
+		 } else{
+			$scope.link = $scope.noticeArray[$scope.check+1].link;
+			$scope.app_icon = $scope.noticeArray[$scope.check+1].app_icon;
+			$scope.status = $scope.noticeArray[$scope.check+1].status;
 		 }
 		  
           },
