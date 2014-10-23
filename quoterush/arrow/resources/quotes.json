@@ -1,9 +1,927 @@
-/**
- Export to JSON plugin for PHPMyAdmin
- @version 0.1
- */
-
-// Database 'sql551885'
-// sql551885.arrow
-
-[{"season": 1,"quote": "Besides, Army regulations. A brother never lets a soldier go into battle alone","name": "Diggle"}, {"season": 1,"quote": "Nobody in my life is who I thought they were, except for you","name": "Oliver"}, {"season": 1,"quote": "I wish you would have died on that island.","name": "Tommy"}, {"season": 1,"quote": "Our fathers! They aren\'t the men we thought they were. They made a plan together to destroy The Glades.","name": "Oliver"}, {"season": 1,"quote": "You know, I used to think the vigilante was a criminal, too. But, it seems to me he\'s willing to sacrifice an awful lot to help the people of city. That kind of makes him a hero, doesn\'t it?","name": "Felicity"}, {"season": 1,"quote": "I take back every joke I made about you sticking a tracking device in your boot.","name": "Diggle"}, {"season": 1,"quote": "Who the hell is Felicity Smoak?","name": "Quentin Lance"}, {"season": 1,"quote": "The last time the vigilante paid your mom a visit you got shot and I got to play doctor with you. Oh - my brain thinks of the worst way to say things","name": "Felicity"}, {"season": 1,"quote": "You\'re going to be really upset when you meet my partner","name": "Felicity"}, {"season": 1,"quote": "Oh look, there\'s the bathroom. I should have known the manager\'s office would be down the hall and to the left of the bathroom.","name": "Felicity"}, {"season": 1,"quote": "So you\'ll atone for one murder, Robert, by committing hundreds, thousands?","name": "Moira"}, {"season": 1,"quote": "You\'re sniping a sniper, kind of ironic you think?","name": "Felicity"}, {"season": 1,"quote": "This club is important to me, but to you it\'s just a front. You want me to keep your secret, help you to be this thing you\'ve become, but you refuse to see what I\'ve become. I\'ve got just a bit too much self respect for that. I quit.","name": "tommy"}, {"season": 1,"quote": "Well, if prohibition were still in effect, you might actually have a basis of a criminal complaint.","name": "Laurel"}, {"season": 1,"quote": "My only encounter with drugs was with a pot brownie my freshman year. By mistake! Which could have been fun, except I\'m allergic to nuts","name": "Felicity"}, {"season": 1,"quote": "You know, it\'s pretty exciting that both of you are such bad asses, but do you think we should be making a plan to stop fires and, oh, I don\'t know, save your dad?","name": "Oliver"}, {"season": 1,"quote": "Well, you\'ll probably be shocked to hear I didn\'t go to medical school.","name": "Quentin"}, {"season": 1,"quote": "Bad boys. Hook ya every time","name": "Laurel"}, {"season": 1,"quote": "Joseph, I understand being alone, but it doesn\'t give you the right to kill him.","name": "Oliver"}, {"season": 1,"quote": "I don\'t like the idea that somebody dangerous is out there. Somebody else. Because, typically, they don\'t show my level of restraint","name": "Oliver"}, {"season": 1,"quote": "I was wrong to think that I could have it both ways. To do what I do and have a normal life.","name": "Oliver"}, {"season": 1,"quote": "Me being happy isn\'t what\'s important right now","name": "Oliver"}, {"season": 1,"quote": "Then let\'s talk about Helena. Oliver, if you didn\'t still have feelings for this girl you would have thought of a different solution than letting her extort you into killing someone.","name": "Diggle"}, {"season": 1,"quote": "I tried to teach you to obtain your objective without killing!","name": "Oliver"}, {"season": 1,"quote": "Yeah, congratulations Ollie. The club doesn\'t completely suck.","name": "Thea"}, {"season": 1,"quote": "So you really believe this garbage your mother\'s selling about Sarah being alive on Fantasy Island?","name": "Det Lance"}, {"season": 1,"quote": "I don\'t know why my dad bought her that canary. The thing chirped day and night; drove us all nuts","name": "Laurel"}, {"season": 1,"quote": "So you\'re hoping aircraft maintenance is genetic?","name": "Slade"}, {"season": 1,"quote": "The first time anyone\'s ever been grateful for traffic cameras","name": "Felicity"}, {"season": 1,"quote": "Is this really how you guys figure out how to get your target? Over burgers and shakes?","name": "Felicity"}, {"season": 1,"quote": "Nothing is bred that is weaker than man","name": "Oliver"}, {"season": 1,"quote": "I may be blonde, but I\'m not that blonde.","name": "Felicity"}, {"season": 1,"quote": "Oliver. Oh. Wow. Everything about you just became so unbelievably clear.","name": "Felicity"}, {"season": 1,"quote": "Show me a more dangerous rule breaker than The Hood.","name": "Tommy"}, {"season": 1,"quote": "You are so blinded by your hate for him that you don\'t realize the damage that it\'s doing in your own life. To your family.","name": "Tommy"}, {"season": 1,"quote": "The experience of helping others it its own reward.","name": "Laurel"}, {"season": 1,"quote": "I\'ve been researching some of those people online and....they\'re not good people.","name": "Oliver"}, {"season": 1,"quote": "I think this list might have cost Walter his life","name": "Felicity"}, {"season": 1,"quote": "Vertigo is measured in lives. Fifty six people died to perfect this high. Believe me when I say that they did not die for nothing","name": "The Count"}, {"season": 1,"quote": "Apparently he wants to mend some fences, but thanks to him I can\'t afford a fence, so I can only assume he has some other agenda","name": "Tommy"}, {"season": 1,"quote": "I thought you took that book off your father\'s dead body. How could he have been so chatty?","name": "Diggle"}, {"season": 1,"quote": "I could be wrong. The list isn\'t.","name": "Oliver"}, {"season": 1,"quote": "Whoever this guy is, he\'s got a habit of putting himself between danger and you.","name": "Quentin"}, {"season": 1,"quote": "You\'d be surprised the power revenge can give you","name": "Oliver"}, {"season": 1,"quote": "Maybe you should start acting like my mother so I don\'t have to act like yours.","name": "Thea"}, {"season": 1,"quote": "I\'m an all or nothing kind of girl.","name": "Laurel"}, {"season": 1,"quote": "So Laurel\'s on her own against a murderer who burns people alive?","name": "Diggle"}, {"season": 1,"quote": "They need the man in the hood","name": "Diggle"}, {"season": 1,"quote": "Who are you? Where\'s my friend Tommy Merlyn? The guy who once rented out a pro football stadium so he could play strip kickball with models.","name": "Oliver"}, {"season": 1,"quote": "Looks like everyone\'s disappearing.","name": "Thea"}, {"season": 1,"quote": "When I confront somebody on the list I tell them they failed this city, but tonight it\'s me who failed.","name": "Oliver"}, {"season": 1,"quote": "So is this guy trying to frame you or call you out?","name": "Diggle"}, {"season": 1,"quote": "I think there should be a national holiday for whoever invented French fries. Or at least a statue in their honor","name": "Thea"}, {"season": 1,"quote": "I\'m giving up a lot so maybe I thought the universe owed me one.","name": "Oliver"}, {"season": 1,"quote": "Truth be told, billionaire was your least attractive quality.","name": "Laurel"}, {"season": 1,"quote": "You know I think losing my fortune is gonna be easier than losing you so why don\'t we just stop now.","name": "Tommy"}, {"season": 1,"quote": "You\'re like a dope fiend who thinks he can deal with his own addiction by making another addict go straight","name": "Diggle"}, {"season": 1,"quote": "I wasn\'t lying to hurt you, but to keep you safe","name": "Moira"}, {"season": 1,"quote": "She\'s lost Diggle and whether she knows it or not, I can save her","name": "Oliver"}, {"season": 1,"quote": "I don\'t kill people unless it\'s absolutely necessary. It\'s not my opening move.","name": "Oliver"}, {"season": 1,"quote": "I\'m the rich man\'s Lindsay Lohan","name": "Oliver"}, {"season": 1,"quote": "I just think we need to stop judging him for the Oliver he was and start accepting him for the Oliver he is.","name": "Moira"}, {"season": 1,"quote": "I think it\'s easy to forget that he lived apart from civilization for five years.","name": "Moira"}, {"season": 1,"quote": "Maybe you should spend a little less time trying to be a hero, you\'re obviously not very good at it.","name": "Thea"}, {"season": 1,"quote": "Did you know that as a doctor I could diagnose myself as a giant tool?","name": "Tommy"}, {"season": 1,"quote": "For all our sakes, start reading US Weekly.","name": "Thea"}, {"season": 1,"quote": "He\'s not interested in throwing us a fundraiser. What he wants to have is the first annual attempt to get back into my pants.","name": "Laurel"}, {"season": 1,"quote": "I just got a new sports car, thought we could open her up, get a few speeding tickets","name": "Tommy"}, {"season": 1,"quote": "I don\'t fight the street crime. That\'s a symptom of what\'s wrong with this city, I\'m trying to cure the disease.","name": "Oliver"}, {"season": 1,"quote": "It sounds like you have a narrow definition about being a hero","name": "Diggle"}, {"season": 1,"quote": "If any member of my family so much as gets a paper cut, I will burn your entire world to ashes.","name": "Moira"}, {"season": 1,"quote": "I was so focused on what happened to my family that I didn\'t even stop and wonder what could\'ve happened to you","name": "Laurel"}, {"season": 1,"quote": "Oliver I didn\'t joining your crusade was every gonna be risk free, I just don\'t like being played.","name": "Diggle"}, {"season": 1,"quote": "You know us billionaire vigilantes, we do love our toys","name": "Oliver"}, {"season": 1,"quote": "Why should I yell? You\'re only defending the man that killed your sister.","name": "Det Lance"}, {"season": 1,"quote": "I am having a sizeable get together for tomorrow evening and there is a better than likely chance it spills into the outdoor pool.","name": "Oliver"}, {"season": 1,"quote": "This isn\'t over. I got the loose end now and no matter what happens I\'m going to pull on it until your whole world unravels.","name": "Laurel"}, {"season": 1,"quote": "I got mad relationship skills bro. Let me know if you need any trendy places to propose","name": "Thea"}, {"season": 1,"quote": "I\'m thinking prison, Burning Man meets Shawshank Redemption. The invite says \"come before Oliver Queen gets off.\"","name": "Oliver"}, {"season": 1,"quote": "I am having a sizeable get together for tomorrow evening and there is a better than likely chance it spills into the outdoor pool.","name": "Oliver"}, {"season": 1,"quote": "This isn\'t over. I got the loose end now and no matter what happens I\'m going to pull on it until your whole world unravels.","name": "Laurel"}, {"season": 1,"quote": "I made peace with your selfishness a long time ago","name": "Laurel"}, {"season": 1,"quote": "I didn\'t study Shakespeare at any of the four schools that I dropped out of.","name": "Oliver"}, {"season": 1,"quote": "Doesn\'t you going out and having fun violate some kind of law?","name": "Tommy"}, {"season": 1,"quote": "It\'s Oliver isn\'t it? His judgmental hypocrisy is rubbing off on you.","name": "Thea"}, {"season": 1,"quote": "Who stays mad at a castaway?","name": "Tommy"}, {"season": 1,"quote": "He doesn\'t kill for justice, which makes him as dangerous as anyone on my list.","name": "Oliver"}, {"season": 1,"quote": "Cops brought her home. She and some friends broke into a store, tried on some dresses last night, lit up the breathalyzer like a Christmas tree.","name": "Diggle"}, {"season": 1,"quote": "Our family\'s wealth had been built on the suffering of others.","name": "Oliver"}, {"season": 1,"quote": "My best friend is getting legally resurrected. I wouldn\'t miss this for the world.","name": "Tommy"}, {"season": 1,"quote": "Oliver just got back from five years on an uncharted island. Before that he was cheating on me with my sister.","name": "Laurel"}, {"season": 1,"quote": "You know five years ago your irresponsibility was somewhat charming. It is a lot less so now.","name": "Moira"}, {"season": 1,"quote": "Home is a battlefield.","name": "Diggle"}, {"season": 1,"quote": "Before the island I was a jerk, but now I\'m just a damaged jerk.","name": "Oliver"}, {"season": 1,"quote": "You know what Oliver? You\'re wrong that island did change you. At least now you\'re honest","name": "Laurel"}, {"season": 1,"quote": "She was my sister. I couldn\'t be angry because she was dead. I couldn\'t grieve because I was so angry, that\'s what happens when your sister dies while screwing your boyfriend.","name": "Laurel"}, {"season": 1,"quote": "Everyone is happy you\'re alive, you wanna see the one person who isn\'t?","name": "Tommy"}, {"season": 1,"quote": "I want one of those t-shirts that says my friend was a cast away and all I got was this crappy shirt.","name": "Tommy"}, {"season": 1,"quote": "To live I had to make myself more than what I was, to forge myself into a weapon. I am returning not the boy who was shipwrecked, but the man who will bring justice to those who have poisoned my city. My name is Oliver Queen.","name": "Oliver"}, {"season": 2,"quote": "You helped me become a hero, Slade. Thank you","name": "Oliver"}, {"season": 2,"quote": "You can kill me or not. Either way, I win.","name": "Slade"}, {"season": 2,"quote": "The Mirakuru isn\'t what made me hate you! The end is near, but maybe I\'ll be merciful enough to let you live and see your city burn!","name": "Slade"}, {"season": 2,"quote": "Gee Sara, you could have called before you invited ... seven assassins into our lair.","name": "Felicity"}, {"season": 2,"quote": "He lacked the conviction, the strength to pull the trigger, but not you Thea. You are truly my daughter and I could not be more proud.","name": "Malcolm"}, {"season": 2,"quote": "I\'m just saying, if you guys don\'t come back alive I\'m gonna be really pissed.","name": "Felicity"}, {"season": 2,"quote": "If you\'re so far gone and so irredeemable, then why would they know you by such a beautiful name?","name": "Laurel"}, {"season": 2,"quote": "Lieutenant, I know he\'s breaking the law, but what we\'re up against is not about the law, it\'s about survival. We\'ve got masks tearin\' our city to pieces and we\'re gonna need a mask to stop them.","name": "Lance"}, {"season": 2,"quote": "I don\'t need you right now. Everyone else does. So go; go save the city.","name": "Laurel"}, {"season": 2,"quote": "This started with the three of us. It\'s time we got back to that.","name": "Oliver"}, {"season": 2,"quote": "What\'s happening is bigger than you and Slade. This city needs the Arrow.","name": "Laurel"}, {"season": 2,"quote": "Slade\'s whole plan was to take everything from me. He did. He wins. All that\'s left is for me to die.","name": "Oliver"}, {"season": 2,"quote": "You once told me a copy was a cop was only as good as his gut. Well I\'m the daughter of a cop, and I know in my gut, Sebastian is not the man that you think he is.","name": "Laurel"}, {"season": 2,"quote": "I don\'t even know why I\'m crying. I didn\'t even like Moira. Terrible thing to say about someone after they just died. In my defense, she was not nice. She was diabolical. Not a word you often hear at someone\'s funeral.","name": "Felicity"}, {"season": 2,"quote": "Thea hates you right now because of the things you\'ve done. Terrible things. So let her see you do something good. As mayor.","name": "Oliver"}, {"season": 2,"quote": "Mom, it doesn\'t seem fair to me. One mistake and it feels like my entire life is over.","name": "Oliver"}, {"season": 2,"quote": "Five years ago I had the chance to use the cure on Slade. I chose to kill him. Everything that\'s happening now is my fault.","name": "Oliver"}, {"season": 2,"quote": "It\'s The Arrow that matters. The man under the hood isn\'t important. Can you imagine what it\'s like to be him? What he has to live with day in and day out? What that\'s gotta be like? Hey? The least I can do is to a little bit of time for him.","name": "Lance"}, {"season": 2,"quote": "No, you know what I am? Is the daughter of two mass murderers. Not one, but two. So let\'s face it, Ollie. I was never gonna be OK. It\'s not in my genes.","name": "Thea"}, {"season": 2,"quote": "You\'re my half brother. You know who else was my half brother? Tommy! Tommy who I tried to kiss. I tried to kill my half brother before my real father killed him! That\'s how screwed up I am!","name": "Thea"}, {"season": 2,"quote": "It says Thea Queen here. Who\'s she?","name": "Thea"}, {"season": 2,"quote": "Sometimes it\'s people closest to us who lie to us best.","name": "Laurel"}, {"season": 2,"quote": "For the record, I hated her before we found out she was a super villain.","name": "Felicity"}, {"season": 2,"quote": "I don\'t think my eye holes line up properly. Is anyone else having this problem?","name": "Felicity"}, {"season": 2,"quote": "You\'re special forces, she\'s an international assassin. You\'d think that between the three of us we could have gotten answers out of Slade ourselves instead of turning him into the police. Here\'s what\'s really sick, is we didn\'t even question him because he said it was the right thing to do. Just like he said I had to break up with Thea one week after telling me to leave her alone!","name": "Roy"}, {"season": 2,"quote": "We can\'t do anything without King Queen\'s permission.","name": "Roy"}, {"season": 2,"quote": "Your brother has a secret, Thea. Would you like to know what it is?","name": "Slade"}, {"season": 2,"quote": "Well, I told a guy the truth and he got struck by lightening. To be fair, it probably won\'t happen again. Statistically.","name": "Felicity"}, {"season": 2,"quote": "Why is it so hard for everyone to just tell the truth?","name": "Thea"}, {"season": 2,"quote": "Oliver sure does like to dress up his girls.","name": "Huntress"}, {"season": 2,"quote": "I don\'t understand! What is so special about me?","name": "Laurel"}, {"season": 2,"quote": "That\'s why you called me Speedy. I thought you were trying to give me a nickname. For the record, don\'t call me Speedy.","name": "Roy"}, {"season": 2,"quote": "We\'ve been calling him Deathstroke.","name": "Walter"}, {"season": 2,"quote": "Last night the man who killed my brother showed more character than the woman charged with protecting the world. Good and bad is not so clear to me. One thing I do know for sure, black and white, is that I can\'t ever lose you again.","name": "Diggle"}, {"season": 2,"quote": "Gimme a break. This ain\'t no task force. Let\'s call it like it is. Welcome to the suicide squad.","name": "Deadshot"}, {"season": 2,"quote": "I know exactly how this brotherhood works and right now it works for me.","name": "Oliver"}, {"season": 2,"quote": "You cannot die until you have suffered the same way that I have suffered, until you have known complete despair -- and you will. I promise.","name": "Slade"}, {"season": 2,"quote": "Five years ago I made a promise. Do you remember? Well I\'m here to fulfill it. See you around kid.","name": "Slade"}, {"season": 2,"quote": "I believe that when we lose someone we love that we have the obligation to honor it.","name": "Slade"}, {"season": 2,"quote": "You know when we first tried to get off this island it was as strangers; but now it\'s as brothers.","name": "Slade"}, {"season": 2,"quote": "Because of the life that I lead, I just think it’s better to not be with someone that I could really care about.","name": "Oliver"}, {"season": 2,"quote": "Because I realized that, that I went on that boat with you, too. And I\'ve been slowly drowning for all of these years and after every heartbreak or setback or loss, I sank deeper into the dark water. And so when I saw you, so beautiful and so alive, I realized that I\'m not those things. Not anymore. So please, please don\'t hate me Sara. Please.","name": "Laurel"}, {"season": 2,"quote": "I am the new bartender. I bartended in college and well, it\'s uh kind of hard to get a job when international assassin is the highlight of your resume.","name": "Sara"}, {"season": 2,"quote": "I\'ve always wanted to say I\'ve taken a bullet for someone and now I can. Yay","name": "Felicity"}, {"season": 2,"quote": "Sara, when you come back from the dead you get a party. It\'s a Queen family tradition.","name": "Sara"}, {"season": 2,"quote": "What\'s the matter? They didn\'t teach you about right crosses in assassin school?","name": "Lance"}, {"season": 2,"quote": "I was with you because I loved you.","name": "Sara"}, {"season": 2,"quote": "You had an affair with Malcolm Merlyn about one year before Thea was born. Merlyn is Thea\'s father.","name": "Felicity"}, {"season": 2,"quote": "So, the secret society gets a new member.","name": "Diggle"}, {"season": 2,"quote": "Can I make a suggestion? Instead of punishing yourself because you think you destroyed the city, how about you start by saving it?","name": "Thea"}, {"season": 2,"quote": "Charles Manson is relatively well known and I don\'t believe anyone is going to vote for him.","name": "Moira"}, {"season": 2,"quote": "Uh oh. You got angry face.","name": "Felicity"}, {"season": 2,"quote": "All I\'m learning is new ways to get pissed off, and in case you haven\'t noticed I\'m already pretty good at that.","name": "Roy"}, {"season": 2,"quote": "Iron Heights is better at keeping secrets than it is at keeping prisoners.","name": "Felicity"}, {"season": 2,"quote": "Love\'s the most powerful emotion and that makes it the most dangerous.","name": "Sara"}, {"season": 2,"quote": "Your incompetence has now cost me four lives, Alderman. Fail me again, and yours will be the fifth.","name": "Slade"}, {"season": 2,"quote": "She nearly had me believing that Sebastian was a criminal mastermind and the only reason that I believed her was because it was Laurel. I do have a blind spot where she\'s concerned. Not anymore.","name": "Oliver"}, {"season": 2,"quote": "That\'s the thing about the booze and the pills. The same thing that dulls the pain dulls the judgement.","name": "Lance"}, {"season": 2,"quote": "If that mask is supposed to scare me, all that it\'s doing it confirming what I\'ve already known for a while now. You\'re one sick son of a bitch Sebastian!","name": "Laurel"}, {"season": 2,"quote": "Now I don\'t need his help to protect this city. Let\'s find us a bad guy.","name": "Roy"}, {"season": 2,"quote": "His last name is Blood, that can\'t be a good sign.","name": "Felicity"}, {"season": 2,"quote": "I think you didn\'t have a problem with Felicity’s performance until she met Barry Allen.","name": "Diggle"}, {"season": 2,"quote": "Laurel, if there’s something on your mind, give it voice. I don’t bite. I promise.","name": "Sebastian"}, {"season": 2,"quote": "Not to tell you how to do your vigilante-ing but the grease paint thing is a poor identity concealer.","name": "Barry"}, {"season": 2,"quote": "I will arrange for you receive another sample of my blood, and then you can begin to mass produce the serum again.When I ask you not to confront the vigilante, you will listen. Remember, your mask can be worn by another.","name": "Slade"}, {"season": 2,"quote": "I know I called you a murderer, but you are not. You are a hero. You beat the island. You beat my father. So fight, Oliver. Get up and fight back.","name": "Tommy"}, {"season": 2,"quote": "The island didn\'t make you strong, kid. It revealed you to be weak.","name": "Slade"}, {"season": 2,"quote": "Oliver Queen. He is a billionare by day and saves the city by night.","name": "Barry"}, {"season": 2,"quote": "So find me a mask that conforms perfectly to my face and doesn\'t affect my ability to aim while I\'m on the run.","name": "Oliver"}, {"season": 2,"quote": "Never meet your heroes, right?","name": "Felicity"}, {"season": 2,"quote": "The five years I was away I encountered things that defy explanation.","name": "Oliver"}, {"season": 2,"quote": "Normal for us is a lavish party","name": "Thea"}, {"season": 2,"quote": "Moira, I know I could be disbarred for speaking with you, but this isn\'t something for lawyers, this is a family matter.","name": "Laurel"}, {"season": 2,"quote": "Mom, secrets are what put you here. Secrets and lies. Now is the time to give the truth its day.","name": "Oliver"}, {"season": 2,"quote": "I made a choice not to put an arrow in this guy, and it was the right choice. There\'s no more killing.","name": "Oliver"}, {"season": 2,"quote": "What happens in Russia stays in Russia. Even when it makes no sense whatsoever.","name": "Felicity"}, {"season": 2,"quote": "You sent Felicity Smoak to warn me to leave town. You know The Arrow. You\'re the girl in the mask. You\'ve been kicking the crap out of creeps in The Glades.","name": "Lance"}, {"season": 2,"quote": "Well that\'s the thing about forgiveness. You can\'t get it until you ask for it.","name": "Oliver"}, {"season": 2,"quote": "You\'ve gotta be kidding me. My dad went to you? He spent the last six years cursing your name and now you\'re, what? Gossip buddies?","name": "Laurel"}, {"season": 2,"quote": "You know Oliver, somebody once told me that secrets have weight. The more you keep, the harder it is to keep moving.","name": "Diggle"}, {"season": 2,"quote": "Do you have any happy stories?","name": "Felicity"}, {"season": 2,"quote": "That a guy with a bow and arrow cannot save a guy who\'s had a building fall on top of him. What\'s going on with you is not about The Arrow.","name": "Lance"}, {"season": 2,"quote": "You should be happy I haven\'t avoided attachment to you.","name": "Oliver"}, {"season": 2,"quote": "Thea, I need you to understand what is going on here. Five hundred and three people are dead and there is a measure of guilt that is owed me. I am ready to accept my punishment.","name": "Moira"}, {"season": 2,"quote": "As if porcelain dolls weren\'t creepy all on their own.","name": "Felicity"}, {"season": 2,"quote": "Oliver, what I would like to know is what you were doing at Laurel\'s office in the first place. She makes you public enemy number one and you figured this was a good time to chat?","name": "Diggle"}, {"season": 2,"quote": "Healthcare has enough problems without you punks.","name": "Diggle"}, {"season": 2,"quote": "That outfit, with your coloring - isn\'t that cruel and unusual punishment or something?","name": "Thea"}, {"season": 2,"quote": "What I lack in height I make up for in wicked good hearing.","name": "Roy"}, {"season": 2,"quote": "I\'m not coming back to Starling City. I can\'t. My mission, my father\'s list - it was a fool\'s crusade. And I failed. Malcolm Merlyn destroyed The Glades. Tommy died. And The Hood couldn\'t stop it, so don\'t ask me to put it on again. Ever.","name": "Oliver"}, {"season": 2,"quote": "I would have emailed, but this isn\'t exactly an email hot spot.","name": "Diggle"}, {"season": 2,"quote": "God, um, you... You\'re really sweaty.","name": "Felicity"}]
+[
+    {
+        "season": 1,
+        "quote": "Besides, Army regulations. A brother never lets a soldier go into battle alone",
+        "name": "Diggle"
+    },
+    {
+        "season": 1,
+        "quote": "Nobody in my life is who I thought they were, except for you",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "I wish you would have died on that island.",
+        "name": "Tommy"
+    },
+    {
+        "season": 1,
+        "quote": "I take back every joke I made about you sticking a tracking device in your boot.",
+        "name": "Diggle"
+    },
+    {
+        "season": 1,
+        "quote": "Who the hell is Felicity Smoak?",
+        "name": "Quentin Lance"
+    },
+    {
+        "season": 1,
+        "quote": "The last time the vigilante paid your mom a visit you got shot and I got to play doctor with you. Oh - my brain thinks of the worst way to say things",
+        "name": "Felicity"
+    },
+    {
+        "season": 1,
+        "quote": "You're sniping a sniper, kind of ironic you think?",
+        "name": "Felicity"
+    },
+    {
+        "season": 1,
+        "quote": "This club is important to me, but to you it's just a front. You want me to keep your secret, help you to be this thing you've become, but you refuse to see what I've become. I've got just a bit too much self respect for that. I quit.",
+        "name": "tommy"
+    },
+    {
+        "season": 1,
+        "quote": "Well, if prohibition were still in effect, you might actually have a basis of a criminal complaint.",
+        "name": "Laurel"
+    },
+    {
+        "season": 1,
+        "quote": "My only encounter with drugs was with a pot brownie my freshman year. By mistake! Which could have been fun, except I'm allergic to nuts",
+        "name": "Felicity"
+    },
+    {
+        "season": 1,
+        "quote": "You know, it's pretty exciting that both of you are such bad asses, but do you think we should be making a plan to stop fires and, oh, I don't know, save your dad?",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "Well, you'll probably be shocked to hear I didn't go to medical school.",
+        "name": "Quentin"
+    },
+    {
+        "season": 1,
+        "quote": "Bad boys. Hook ya every time",
+        "name": "Laurel"
+    },
+    {
+        "season": 1,
+        "quote": "Joseph, I understand being alone, but it doesn't give you the right to kill him.",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "I don't like the idea that somebody dangerous is out there. Somebody else. Because, typically, they don't show my level of restraint",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "I was wrong to think that I could have it both ways. To do what I do and have a normal life.",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "Me being happy isn't what's important right now",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "Then let's talk about Helena. Oliver, if you didn't still have feelings for this girl you would have thought of a different solution than letting her extort you into killing someone.",
+        "name": "Diggle"
+    },
+    {
+        "season": 1,
+        "quote": "I tried to teach you to obtain your objective without killing!",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "Yeah, congratulations Ollie. The club doesn't completely suck.",
+        "name": "Thea"
+    },
+    {
+        "season": 1,
+        "quote": "So you really believe this garbage your mother's selling about Sarah being alive on Fantasy Island?",
+        "name": "Det Lance"
+    },
+    {
+        "season": 1,
+        "quote": "I don't know why my dad bought her that canary. The thing chirped day and night; drove us all nuts",
+        "name": "Laurel"
+    },
+    {
+        "season": 1,
+        "quote": "So you're hoping aircraft maintenance is genetic?",
+        "name": "Slade"
+    },
+    {
+        "season": 1,
+        "quote": "The first time anyone's ever been grateful for traffic cameras",
+        "name": "Felicity"
+    },
+    {
+        "season": 1,
+        "quote": "Is this really how you guys figure out how to get your target? Over burgers and shakes?",
+        "name": "Felicity"
+    },
+    {
+        "season": 1,
+        "quote": "Nothing is bred that is weaker than man",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "I may be blonde, but I'm not that blonde.",
+        "name": "Felicity"
+    },
+    {
+        "season": 1,
+        "quote": "Oliver. Oh. Wow. Everything about you just became so unbelievably clear.",
+        "name": "Felicity"
+    },
+    {
+        "season": 1,
+        "quote": "Show me a more dangerous rule breaker than The Hood.",
+        "name": "Tommy"
+    },
+    {
+        "season": 1,
+        "quote": "You are so blinded by your hate for him that you don't realize the damage that it's doing in your own life. To your family.",
+        "name": "Tommy"
+    },
+    {
+        "season": 1,
+        "quote": "The experience of helping others it its own reward.",
+        "name": "Laurel"
+    },
+    {
+        "season": 1,
+        "quote": "I've been researching some of those people online and....they're not good people.",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "I think this list might have cost Walter his life",
+        "name": "Felicity"
+    },
+    {
+        "season": 1,
+        "quote": "Vertigo is measured in lives. Fifty six people died to perfect this high. Believe me when I say that they did not die for nothing",
+        "name": "The Count"
+    },
+    {
+        "season": 1,
+        "quote": "Apparently he wants to mend some fences, but thanks to him I can't afford a fence, so I can only assume he has some other agenda",
+        "name": "Tommy"
+    },
+    {
+        "season": 1,
+        "quote": "I thought you took that book off your father's dead body. How could he have been so chatty?",
+        "name": "Diggle"
+    },
+    {
+        "season": 1,
+        "quote": "I could be wrong. The list isn't.",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "Whoever this guy is, he's got a habit of putting himself between danger and you.",
+        "name": "Quentin"
+    },
+    {
+        "season": 1,
+        "quote": "You'd be surprised the power revenge can give you",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "Maybe you should start acting like my mother so I don't have to act like yours.",
+        "name": "Thea"
+    },
+    {
+        "season": 1,
+        "quote": "I'm an all or nothing kind of girl.",
+        "name": "Laurel"
+    },
+    {
+        "season": 1,
+        "quote": "So Laurel's on her own against a murderer who burns people alive?",
+        "name": "Diggle"
+    },
+    {
+        "season": 1,
+        "quote": "They need the man in the hood",
+        "name": "Diggle"
+    },
+    {
+        "season": 1,
+        "quote": "Who are you? Where's my friend Tommy Merlyn? The guy who once rented out a pro football stadium so he could play strip kickball with models.",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "Looks like everyone's disappearing.",
+        "name": "Thea"
+    },
+    {
+        "season": 1,
+        "quote": "When I confront somebody on the list I tell them they failed this city, but tonight it's me who failed.",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "So is this guy trying to frame you or call you out?",
+        "name": "Diggle"
+    },
+    {
+        "season": 1,
+        "quote": "I think there should be a national holiday for whoever invented French fries. Or at least a statue in their honor",
+        "name": "Thea"
+    },
+    {
+        "season": 1,
+        "quote": "I'm giving up a lot so maybe I thought the universe owed me one.",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "Truth be told, billionaire was your least attractive quality.",
+        "name": "Laurel"
+    },
+    {
+        "season": 1,
+        "quote": "You know I think losing my fortune is gonna be easier than losing you so why don't we just stop now.",
+        "name": "Tommy"
+    },
+    {
+        "season": 1,
+        "quote": "You're like a dope fiend who thinks he can deal with his own addiction by making another addict go straight",
+        "name": "Diggle"
+    },
+    {
+        "season": 1,
+        "quote": "I wasn't lying to hurt you, but to keep you safe",
+        "name": "Moira"
+    },
+    {
+        "season": 1,
+        "quote": "She's lost Diggle and whether she knows it or not, I can save her",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "I don't kill people unless it's absolutely necessary. It's not my opening move.",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "I'm the rich man's Lindsay Lohan",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "I just think we need to stop judging him for the Oliver he was and start accepting him for the Oliver he is.",
+        "name": "Moira"
+    },
+    {
+        "season": 1,
+        "quote": "I think it's easy to forget that he lived apart from civilization for five years.",
+        "name": "Moira"
+    },
+    {
+        "season": 1,
+        "quote": "Maybe you should spend a little less time trying to be a hero, you're obviously not very good at it.",
+        "name": "Thea"
+    },
+    {
+        "season": 1,
+        "quote": "Did you know that as a doctor I could diagnose myself as a giant tool?",
+        "name": "Tommy"
+    },
+    {
+        "season": 1,
+        "quote": "For all our sakes, start reading US Weekly.",
+        "name": "Thea"
+    },
+    {
+        "season": 1,
+        "quote": "He's not interested in throwing us a fundraiser. What he wants to have is the first annual attempt to get back into my pants.",
+        "name": "Laurel"
+    },
+    {
+        "season": 1,
+        "quote": "I just got a new sports car, thought we could open her up, get a few speeding tickets",
+        "name": "Tommy"
+    },
+    {
+        "season": 1,
+        "quote": "I don't fight the street crime. That's a symptom of what's wrong with this city, I'm trying to cure the disease.",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "It sounds like you have a narrow definition about being a hero",
+        "name": "Diggle"
+    },
+    {
+        "season": 1,
+        "quote": "If any member of my family so much as gets a paper cut, I will burn your entire world to ashes.",
+        "name": "Moira"
+    },
+    {
+        "season": 1,
+        "quote": "I was so focused on what happened to my family that I didn't even stop and wonder what could've happened to you",
+        "name": "Laurel"
+    },
+    {
+        "season": 1,
+        "quote": "Oliver I didn't joining your crusade was every gonna be risk free, I just don't like being played.",
+        "name": "Diggle"
+    },
+    {
+        "season": 1,
+        "quote": "You know us billionaire vigilantes, we do love our toys",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "Why should I yell? You're only defending the man that killed your sister.",
+        "name": "Det Lance"
+    },
+    {
+        "season": 1,
+        "quote": "I am having a sizeable get together for tomorrow evening and there is a better than likely chance it spills into the outdoor pool.",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "This isn't over. I got the loose end now and no matter what happens I'm going to pull on it until your whole world unravels.",
+        "name": "Laurel"
+    },
+    {
+        "season": 1,
+        "quote": "I got mad relationship skills bro. Let me know if you need any trendy places to propose",
+        "name": "Thea"
+    },
+    {
+        "season": 1,
+        "quote": "I am having a sizeable get together for tomorrow evening and there is a better than likely chance it spills into the outdoor pool.",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "This isn't over. I got the loose end now and no matter what happens I'm going to pull on it until your whole world unravels.",
+        "name": "Laurel"
+    },
+    {
+        "season": 1,
+        "quote": "I made peace with your selfishness a long time ago",
+        "name": "Laurel"
+    },
+    {
+        "season": 1,
+        "quote": "I didn't study Shakespeare at any of the four schools that I dropped out of.",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "Doesn't you going out and having fun violate some kind of law?",
+        "name": "Tommy"
+    },
+    {
+        "season": 1,
+        "quote": "It's Oliver isn't it? His judgmental hypocrisy is rubbing off on you.",
+        "name": "Thea"
+    },
+    {
+        "season": 1,
+        "quote": "Who stays mad at a castaway?",
+        "name": "Tommy"
+    },
+    {
+        "season": 1,
+        "quote": "He doesn't kill for justice, which makes him as dangerous as anyone on my list.",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "Cops brought her home. She and some friends broke into a store, tried on some dresses last night, lit up the breathalyzer like a Christmas tree.",
+        "name": "Diggle"
+    },
+    {
+        "season": 1,
+        "quote": "Our family's wealth had been built on the suffering of others.",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "My best friend is getting legally resurrected. I wouldn't miss this for the world.",
+        "name": "Tommy"
+    },
+    {
+        "season": 1,
+        "quote": "Oliver just got back from five years on an uncharted island. Before that he was cheating on me with my sister.",
+        "name": "Laurel"
+    },
+    {
+        "season": 1,
+        "quote": "You know five years ago your irresponsibility was somewhat charming. It is a lot less so now.",
+        "name": "Moira"
+    },
+    {
+        "season": 1,
+        "quote": "Home is a battlefield.",
+        "name": "Diggle"
+    },
+    {
+        "season": 1,
+        "quote": "Before the island I was a jerk, but now I'm just a damaged jerk.",
+        "name": "Oliver"
+    },
+    {
+        "season": 1,
+        "quote": "You know what Oliver? You're wrong that island did change you. At least now you're honest",
+        "name": "Laurel"
+    },
+    {
+        "season": 1,
+        "quote": "She was my sister. I couldn't be angry because she was dead. I couldn't grieve because I was so angry, that's what happens when your sister dies while screwing your boyfriend.",
+        "name": "Laurel"
+    },
+    {
+        "season": 1,
+        "quote": "Everyone is happy you're alive, you wanna see the one person who isn't?",
+        "name": "Tommy"
+    },
+    {
+        "season": 1,
+        "quote": "I want one of those t-shirts that says my friend was a cast away and all I got was this crappy shirt.",
+        "name": "Tommy"
+    },
+    {
+        "season": 1,
+        "quote": "To live I had to make myself more than what I was, to forge myself into a weapon. I am returning not the boy who was shipwrecked, but the man who will bring justice to those who have poisoned my city. My name is Oliver Queen.",
+        "name": "Oliver"
+    },
+    {
+        "season": 2,
+        "quote": "You helped me become a hero, Slade. Thank you",
+        "name": "Oliver"
+    },
+    {
+        "season": 2,
+        "quote": "You can kill me or not. Either way, I win.",
+        "name": "Slade"
+    },
+    {
+        "season": 2,
+        "quote": "The Mirakuru isn't what made me hate you! The end is near, but maybe I'll be merciful enough to let you live and see your city burn!",
+        "name": "Slade"
+    },
+    {
+        "season": 2,
+        "quote": "Gee Sara, you could have called before you invited ... seven assassins into our lair.",
+        "name": "Felicity"
+    },
+    {
+        "season": 2,
+        "quote": "He lacked the conviction, the strength to pull the trigger, but not you Thea. You are truly my daughter and I could not be more proud.",
+        "name": "Malcolm"
+    },
+    {
+        "season": 2,
+        "quote": "I'm just saying, if you guys don't come back alive I'm gonna be really pissed.",
+        "name": "Felicity"
+    },
+    {
+        "season": 2,
+        "quote": "If you're so far gone and so irredeemable, then why would they know you by such a beautiful name?",
+        "name": "Laurel"
+    },
+    {
+        "season": 2,
+        "quote": "Lieutenant, I know he's breaking the law, but what we're up against is not about the law, it's about survival. We've got masks tearin' our city to pieces and we're gonna need a mask to stop them.",
+        "name": "Lance"
+    },
+    {
+        "season": 2,
+        "quote": "I don't need you right now. Everyone else does. So go; go save the city.",
+        "name": "Laurel"
+    },
+    {
+        "season": 2,
+        "quote": "This started with the three of us. It's time we got back to that.",
+        "name": "Oliver"
+    },
+    {
+        "season": 2,
+        "quote": "What's happening is bigger than you and Slade. This city needs the Arrow.",
+        "name": "Laurel"
+    },
+    {
+        "season": 2,
+        "quote": "Slade's whole plan was to take everything from me. He did. He wins. All that's left is for me to die.",
+        "name": "Oliver"
+    },
+    {
+        "season": 2,
+        "quote": "You once told me a copy was a cop was only as good as his gut. Well I'm the daughter of a cop, and I know in my gut, Sebastian is not the man that you think he is.",
+        "name": "Laurel"
+    },
+    {
+        "season": 2,
+        "quote": "I don't even know why I'm crying. I didn't even like Moira. Terrible thing to say about someone after they just died. In my defense, she was not nice. She was diabolical. Not a word you often hear at someone's funeral.",
+        "name": "Felicity"
+    },
+    {
+        "season": 2,
+        "quote": "Thea hates you right now because of the things you've done. Terrible things. So let her see you do something good. As mayor.",
+        "name": "Oliver"
+    },
+    {
+        "season": 2,
+        "quote": "Mom, it doesn't seem fair to me. One mistake and it feels like my entire life is over.",
+        "name": "Oliver"
+    },
+    {
+        "season": 2,
+        "quote": "Five years ago I had the chance to use the cure on Slade. I chose to kill him. Everything that's happening now is my fault.",
+        "name": "Oliver"
+    },
+    {
+        "season": 2,
+        "quote": "It's The Arrow that matters. The man under the hood isn't important. Can you imagine what it's like to be him? What he has to live with day in and day out? What that's gotta be like? Hey? The least I can do is to a little bit of time for him.",
+        "name": "Lance"
+    },
+    {
+        "season": 2,
+        "quote": "No, you know what I am? Is the daughter of two mass murderers. Not one, but two. So let's face it, Ollie. I was never gonna be OK. It's not in my genes.",
+        "name": "Thea"
+    },
+    {
+        "season": 2,
+        "quote": "You're my half brother. You know who else was my half brother? Tommy! Tommy who I tried to kiss. I tried to kill my half brother before my real father killed him! That's how screwed up I am!",
+        "name": "Thea"
+    },
+    {
+        "season": 2,
+        "quote": "It says Thea Queen here. Who's she?",
+        "name": "Thea"
+    },
+    {
+        "season": 2,
+        "quote": "Sometimes it's people closest to us who lie to us best.",
+        "name": "Laurel"
+    },
+    {
+        "season": 2,
+        "quote": "For the record, I hated her before we found out she was a super villain.",
+        "name": "Felicity"
+    },
+    {
+        "season": 2,
+        "quote": "I don't think my eye holes line up properly. Is anyone else having this problem?",
+        "name": "Felicity"
+    },
+    {
+        "season": 2,
+        "quote": "You're special forces, she's an international assassin. You'd think that between the three of us we could have gotten answers out of Slade ourselves instead of turning him into the police. Here's what's really sick, is we didn't even question him because he said it was the right thing to do. Just like he said I had to break up with Thea one week after telling me to leave her alone!",
+        "name": "Roy"
+    },
+    {
+        "season": 2,
+        "quote": "We can't do anything without King Queen's permission.",
+        "name": "Roy"
+    },
+    {
+        "season": 2,
+        "quote": "Your brother has a secret, Thea. Would you like to know what it is?",
+        "name": "Slade"
+    },
+    {
+        "season": 2,
+        "quote": "Well, I told a guy the truth and he got struck by lightening. To be fair, it probably won't happen again. Statistically.",
+        "name": "Felicity"
+    },
+    {
+        "season": 2,
+        "quote": "Why is it so hard for everyone to just tell the truth?",
+        "name": "Thea"
+    },
+    {
+        "season": 2,
+        "quote": "Oliver sure does like to dress up his girls.",
+        "name": "Huntress"
+    },
+    {
+        "season": 2,
+        "quote": "I don't understand! What is so special about me?",
+        "name": "Laurel"
+    },
+    {
+        "season": 2,
+        "quote": "That's why you called me Speedy. I thought you were trying to give me a nickname. For the record, don't call me Speedy.",
+        "name": "Roy"
+    },
+    {
+        "season": 2,
+        "quote": "We've been calling him Deathstroke.",
+        "name": "Walter"
+    },
+    {
+        "season": 2,
+        "quote": "Last night the man who killed my brother showed more character than the woman charged with protecting the world. Good and bad is not so clear to me. One thing I do know for sure, black and white, is that I can't ever lose you again.",
+        "name": "Diggle"
+    },
+    {
+        "season": 2,
+        "quote": "Gimme a break. This ain't no task force. Let's call it like it is. Welcome to the suicide squad.",
+        "name": "Deadshot"
+    },
+    {
+        "season": 2,
+        "quote": "I know exactly how this brotherhood works and right now it works for me.",
+        "name": "Oliver"
+    },
+    {
+        "season": 2,
+        "quote": "You cannot die until you have suffered the same way that I have suffered, until you have known complete despair -- and you will. I promise.",
+        "name": "Slade"
+    },
+    {
+        "season": 2,
+        "quote": "Five years ago I made a promise. Do you remember? Well I'm here to fulfill it. See you around kid.",
+        "name": "Slade"
+    },
+    {
+        "season": 2,
+        "quote": "I believe that when we lose someone we love that we have the obligation to honor it.",
+        "name": "Slade"
+    },
+    {
+        "season": 2,
+        "quote": "You know when we first tried to get off this island it was as strangers; but now it's as brothers.",
+        "name": "Slade"
+    },
+    {
+        "season": 2,
+        "quote": "Because of the life that I lead, I just think it’s better to not be with someone that I could really care about.",
+        "name": "Oliver"
+    },
+    {
+        "season": 2,
+        "quote": "Because I realized that, that I went on that boat with you, too. And I've been slowly drowning for all of these years and after every heartbreak or setback or loss, I sank deeper into the dark water. And so when I saw you, so beautiful and so alive, I realized that I'm not those things. Not anymore. So please, please don't hate me Sara. Please.",
+        "name": "Laurel"
+    },
+    {
+        "season": 2,
+        "quote": "I am the new bartender. I bartended in college and well, it's uh kind of hard to get a job when international assassin is the highlight of your resume.",
+        "name": "Sara"
+    },
+    {
+        "season": 2,
+        "quote": "I've always wanted to say I've taken a bullet for someone and now I can. Yay",
+        "name": "Felicity"
+    },
+    {
+        "season": 2,
+        "quote": "Sara, when you come back from the dead you get a party. It's a Queen family tradition.",
+        "name": "Sara"
+    },
+    {
+        "season": 2,
+        "quote": "What's the matter? They didn't teach you about right crosses in assassin school?",
+        "name": "Lance"
+    },
+    {
+        "season": 2,
+        "quote": "I was with you because I loved you.",
+        "name": "Sara"
+    },
+    {
+        "season": 2,
+        "quote": "You had an affair with Malcolm Merlyn about one year before Thea was born. Merlyn is Thea's father.",
+        "name": "Felicity"
+    },
+    {
+        "season": 2,
+        "quote": "So, the secret society gets a new member.",
+        "name": "Diggle"
+    },
+    {
+        "season": 2,
+        "quote": "Can I make a suggestion? Instead of punishing yourself because you think you destroyed the city, how about you start by saving it?",
+        "name": "Thea"
+    },
+    {
+        "season": 2,
+        "quote": "Charles Manson is relatively well known and I don't believe anyone is going to vote for him.",
+        "name": "Moira"
+    },
+    {
+        "season": 2,
+        "quote": "Uh oh. You got angry face.",
+        "name": "Felicity"
+    },
+    {
+        "season": 2,
+        "quote": "All I'm learning is new ways to get pissed off, and in case you haven't noticed I'm already pretty good at that.",
+        "name": "Roy"
+    },
+    {
+        "season": 2,
+        "quote": "Iron Heights is better at keeping secrets than it is at keeping prisoners.",
+        "name": "Felicity"
+    },
+    {
+        "season": 2,
+        "quote": "Love's the most powerful emotion and that makes it the most dangerous.",
+        "name": "Sara"
+    },
+    {
+        "season": 2,
+        "quote": "Your incompetence has now cost me four lives, Alderman. Fail me again, and yours will be the fifth.",
+        "name": "Slade"
+    },
+    {
+        "season": 2,
+        "quote": "She nearly had me believing that Sebastian was a criminal mastermind and the only reason that I believed her was because it was Laurel. I do have a blind spot where she's concerned. Not anymore.",
+        "name": "Oliver"
+    },
+    {
+        "season": 2,
+        "quote": "That's the thing about the booze and the pills. The same thing that dulls the pain dulls the judgement.",
+        "name": "Lance"
+    },
+    {
+        "season": 2,
+        "quote": "If that mask is supposed to scare me, all that it's doing it confirming what I've already known for a while now. You're one sick son of a bitch Sebastian!",
+        "name": "Laurel"
+    },
+    {
+        "season": 2,
+        "quote": "Now I don't need his help to protect this city. Let's find us a bad guy.",
+        "name": "Roy"
+    },
+    {
+        "season": 2,
+        "quote": "His last name is Blood, that can't be a good sign.",
+        "name": "Felicity"
+    },
+    {
+        "season": 2,
+        "quote": "I think you didn't have a problem with Felicity’s performance until she met Barry Allen.",
+        "name": "Diggle"
+    },
+    {
+        "season": 2,
+        "quote": "Laurel, if there’s something on your mind, give it voice. I don’t bite. I promise.",
+        "name": "Sebastian"
+    },
+    {
+        "season": 2,
+        "quote": "Not to tell you how to do your vigilante-ing but the grease paint thing is a poor identity concealer.",
+        "name": "Barry"
+    },
+    {
+        "season": 2,
+        "quote": "I will arrange for you receive another sample of my blood, and then you can begin to mass produce the serum again.When I ask you not to confront the vigilante, you will listen. Remember, your mask can be worn by another.",
+        "name": "Slade"
+    },
+    {
+        "season": 2,
+        "quote": "I know I called you a murderer, but you are not. You are a hero. You beat the island. You beat my father. So fight, Oliver. Get up and fight back.",
+        "name": "Tommy"
+    },
+    {
+        "season": 2,
+        "quote": "The island didn't make you strong, kid. It revealed you to be weak.",
+        "name": "Slade"
+    },
+    {
+        "season": 2,
+        "quote": "Oliver Queen. He is a billionare by day and saves the city by night.",
+        "name": "Barry"
+    },
+    {
+        "season": 2,
+        "quote": "So find me a mask that conforms perfectly to my face and doesn't affect my ability to aim while I'm on the run.",
+        "name": "Oliver"
+    },
+    {
+        "season": 2,
+        "quote": "Never meet your heroes, right?",
+        "name": "Felicity"
+    },
+    {
+        "season": 2,
+        "quote": "The five years I was away I encountered things that defy explanation.",
+        "name": "Oliver"
+    },
+    {
+        "season": 2,
+        "quote": "Normal for us is a lavish party",
+        "name": "Thea"
+    },
+    {
+        "season": 2,
+        "quote": "Moira, I know I could be disbarred for speaking with you, but this isn't something for lawyers, this is a family matter.",
+        "name": "Laurel"
+    },
+    {
+        "season": 2,
+        "quote": "Mom, secrets are what put you here. Secrets and lies. Now is the time to give the truth its day.",
+        "name": "Oliver"
+    },
+    {
+        "season": 2,
+        "quote": "I made a choice not to put an arrow in this guy, and it was the right choice. There's no more killing.",
+        "name": "Oliver"
+    },
+    {
+        "season": 2,
+        "quote": "What happens in Russia stays in Russia. Even when it makes no sense whatsoever.",
+        "name": "Felicity"
+    },
+    {
+        "season": 2,
+        "quote": "You sent Felicity Smoak to warn me to leave town. You know The Arrow. You're the girl in the mask. You've been kicking the crap out of creeps in The Glades.",
+        "name": "Lance"
+    },
+    {
+        "season": 2,
+        "quote": "Well that's the thing about forgiveness. You can't get it until you ask for it.",
+        "name": "Oliver"
+    },
+    {
+        "season": 2,
+        "quote": "You've gotta be kidding me. My dad went to you? He spent the last six years cursing your name and now you're, what? Gossip buddies?",
+        "name": "Laurel"
+    },
+    {
+        "season": 2,
+        "quote": "You know Oliver, somebody once told me that secrets have weight. The more you keep, the harder it is to keep moving.",
+        "name": "Diggle"
+    },
+    {
+        "season": 2,
+        "quote": "Do you have any happy stories?",
+        "name": "Felicity"
+    },
+    {
+        "season": 2,
+        "quote": "That a guy with a bow and arrow cannot save a guy who's had a building fall on top of him. What's going on with you is not about The Arrow.",
+        "name": "Lance"
+    },
+    {
+        "season": 2,
+        "quote": "You should be happy I haven't avoided attachment to you.",
+        "name": "Oliver"
+    },
+    {
+        "season": 2,
+        "quote": "Thea, I need you to understand what is going on here. Five hundred and three people are dead and there is a measure of guilt that is owed me. I am ready to accept my punishment.",
+        "name": "Moira"
+    },
+    {
+        "season": 2,
+        "quote": "As if porcelain dolls weren't creepy all on their own.",
+        "name": "Felicity"
+    },
+    {
+        "season": 2,
+        "quote": "Oliver, what I would like to know is what you were doing at Laurel's office in the first place. She makes you public enemy number one and you figured this was a good time to chat?",
+        "name": "Diggle"
+    },
+    {
+        "season": 2,
+        "quote": "Healthcare has enough problems without you punks.",
+        "name": "Diggle"
+    },
+    {
+        "season": 2,
+        "quote": "That outfit, with your coloring - isn't that cruel and unusual punishment or something?",
+        "name": "Thea"
+    },
+    {
+        "season": 2,
+        "quote": "What I lack in height I make up for in wicked good hearing.",
+        "name": "Roy"
+    },
+    {
+        "season": 2,
+        "quote": "I'm not coming back to Starling City. I can't. My mission, my father's list - it was a fool's crusade. And I failed. Malcolm Merlyn destroyed The Glades. Tommy died. And The Hood couldn't stop it, so don't ask me to put it on again. Ever.",
+        "name": "Oliver"
+    },
+    {
+        "season": 2,
+        "quote": "I would have emailed, but this isn't exactly an email hot spot.",
+        "name": "Diggle"
+    },
+    {
+        "season": 2,
+        "quote": "God, um, you... You're really sweaty.",
+        "name": "Felicity"
+    }
+]
