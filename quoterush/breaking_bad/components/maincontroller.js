@@ -27,8 +27,8 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
 //------------------------------------- Noticebar------------------------------------//
   function noticebar(){
 
-  //$scope.url ="https://cdn.rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/notice_bar/notice.json";
-    $scope.url = "notice.json";
+  $scope.url ="https://cdn.rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/notice_bar/notice.json";
+   // $scope.url = "notice.json";
   myNotices.getMsg($scope.url).then(function(notice) { //success
           $scope.noticeArray = notice;
 		  $scope.numOfNotice = $scope.noticeArray.length - 1; // get total number of quotes in array
