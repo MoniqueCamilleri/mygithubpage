@@ -1,6 +1,12 @@
 [
     {
-        "notice": "resources/img/app_icon.png",
+        "notice": "resources/img/1.png",
+        "link": "https://play.google.com/store/search?q=quoterush&hl=en"
+
+    }
+	
+	 {
+        "notice": "resources/img/2.png",
         "link": "https://play.google.com/store/search?q=quoterush&hl=en"
 
     }
