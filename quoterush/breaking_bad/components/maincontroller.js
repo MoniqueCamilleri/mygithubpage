@@ -27,7 +27,7 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
 //------------------------------------- Noticebar------------------------------------//
   function noticebar(){
 
-  $scope.url ="https://cdn.rawgit.com/HaydenSookchand/mygithubpage/gh-pages/breaking_bad/resources/notices.json";
+  $scope.url ="https://cdn.rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/notice_bar/notices.json";
   myNotices.getMsg($scope.url).then(function(notice) { //success
           $scope.noticeArray = notice;
           $scope.notice = $scope.noticeArray[0].link;
