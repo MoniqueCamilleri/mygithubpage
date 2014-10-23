@@ -61,7 +61,7 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
 	function init(){
 				console.log('Main Controller initialized');
 				$scope.conn = true;
-				$scope.url ="https://cdn.rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/breaking_bad/resources/quotes.json";
+				$scope.url ="https://rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/breaking_bad/resources/quotes.json";
 
 				myNotices.getMsg($scope.url).then(function(data) { //success
 					$scope.quotesArray = data;
