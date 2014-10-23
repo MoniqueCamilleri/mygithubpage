@@ -32,7 +32,9 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
   myNotices.getMsg($scope.url).then(function(notice) { //success
           $scope.noticeArray = notice;
 		  $scope.numOfNotice = $scope.noticeArray.length - 1; // get total number of quotes in array
+		  console.log($scope.numOfNotice);
 		  $scope.check = Math.floor((Math.random() * $scope.numOfNotice) + 0);
+		   console.log($scope.check);
 		  $scope.appname = $scope.noticeArray[$scope.check].appname;
 		  
 		  if ($scope.appname != "breakingbad"){
