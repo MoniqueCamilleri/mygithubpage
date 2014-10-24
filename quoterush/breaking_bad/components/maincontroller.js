@@ -115,7 +115,13 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
 				var nextCharName = $scope.quotesArray[Number].name;
 				var nextCharQoute = $scope.quotesArray[Number].quote;
 				$scope.outputQuote =  nextCharQoute;
-				alert (($scope.outputQuote).length);
+				
+				//resize quote - TODO swop out classes 
+				if (($scope.outputQuote).length){
+				document.getElementById("p2").style.fontSize = "0.8em";
+				};
+				
+				
 				$scope.outputName =  nextCharName;
 				//console.log($scope.output);
         }
