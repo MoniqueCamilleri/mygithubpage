@@ -398,7 +398,8 @@ button {
   }
 
   .quote-container {
-  margin: 3em 0 0 1.8em;
+  margin: 0 auto;
+  top: 10px;
   width: 85%;
   height: 85%;
   }
