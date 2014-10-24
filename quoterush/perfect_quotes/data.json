@@ -1,9 +1,1502 @@
-/**
- Export to JSON plugin for PHPMyAdmin
- @version 0.1
- */
-
-// Database 'mobile'
-// mobile.perfect
-
-[{"quote": "\"A friend is one who has the same enemies as you have.\"","source": "Abraham Lincoln "}, {"quote": "\"A house divided against itself cannot stand. \"","source": "Abraham Lincoln"}, {"quote": "\"All my life I have tried to pluck a thistle and plant a flower wherever the flower would grow in thought and mind.\"","source": "Abraham Lincoln"}, {"quote": "\"All that I am, or hope to be, I owe to my angel mother. \"","source": "Abraham Lincoln"}, {"quote": "\"Always bear in mind that your own resolution to succeed is more important than any other. \"","source": "Abraham Lincoln"}, {"quote": "\"Am I not destroying my enemies when I make friends of them? \"","source": "Abraham Lincoln"}, {"quote": "\"As I would not be a slave, so I would not be a master. This expresses my idea of democracy. \"","source": "Abraham Lincoln"}, {"quote": "\"As our case is new, we must think and act anew.\"","source": "Abraham Lincoln"}, {"quote": "\"Avoid popularity if you would have peace. \"","source": "Abraham Lincoln"}, {"quote": "\"Ballots are the rightful and peaceful successors to bullets. \"","source": "Abraham Lincoln"}, {"quote": "\"Be sure you put your feet in the right place, then stand firm. \"","source": "Abraham Lincoln"}, {"quote": "\"Better to remain silent and be thought a fool than to speak out and remove all doubt. \"","source": "Abraham Lincoln"}, {"quote": "\"Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing. \"","source": "Abraham Lincoln"}, {"quote": "\"Common looking people are the best in the world: that is the reason the Lord makes so many of them. \"","source": "Abraham Lincoln"}, {"quote": "\"Every one desires to live long, but no one would be old. \"","source": "Abraham Lincoln"}, {"quote": "\"Give me six hours to chop down a tree and I will spend the first four sharpening the axe. \"","source": "Abraham Lincoln"}, {"quote": "\"Government of the people, by the people, for the people, shall not perish from the Earth. \"","source": "Abraham Lincoln"}, {"quote": "\"He has a right to criticize, who has a heart to help.\"","source": "Abraham Lincoln"}, {"quote": "\"He who molds the public sentiment... makes statutes and decisions possible or impossible to make. \"","source": "Abraham Lincoln"}, {"quote": "\"Hold on with a bulldog grip, and chew and choke as much as possible. \"","source": "Abraham Lincoln"}, {"quote": "\"I can make more generals, but horses cost money. \"","source": "Abraham Lincoln"}, {"quote": "\"I destroy my enemies when I make them my friends. \"","source": "Abraham Lincoln"}, {"quote": "\"I do not think much of a man who is not wiser today than he was yesterday.\"","source": "Abraham Lincoln"}, {"quote": "\"I do the very best I know how - the very best I can; and I mean to keep on doing so until the end. \"","source": "Abraham Lincoln"}, {"quote": "\"I like to see a man proud of the place in which he lives. I like to see a man live so that his place will be proud of him. \"","source": "Abraham Lincoln"}, {"quote": "\"I never had a policy; I have just tried to do my very best each and every day. \"","source": "Abraham Lincoln"}, {"quote": "\"I walk slowly, but I never walk backward. \"","source": "Abraham Lincoln"}, {"quote": "\"I will prepare and some day my chance will come. \"","source": "Abraham Lincoln"}, {"quote": "\"I will prepare and some day my chance will come. \"","source": "Abraham Lincoln"}, {"quote": "\"I will prepare and some day my chance will come. \"","source": "Abraham Lincoln"}, {"quote": "\"I will prepare and some day my chance will come. \"","source": "Abraham Lincoln"}, {"quote": "\"Important principles may, and must, be inflexible.\"","source": "Abraham Lincoln"}, {"quote": "\"In great contests each party claims to act in accordance with the will of God. Both may be, and one must be wrong. \"","source": "Abraham Lincoln"}, {"quote": "\"It has been my experience that folks who have no vices have very few virtues. \"","source": "Abraham Lincoln"}, {"quote": "\"Knavery and flattery are blood relations.\"","source": "Abraham Lincoln"}, {"quote": "\"Lets have faith that right makes might; and in that faith let us, to the end, dare to do our duty as we understand it. \"","source": "Abraham Lincoln"}, {"quote": "\"Marriage is neither heaven nor hell, it is simply purgatory. \"","source": "Abraham Lincoln"}, {"quote": "\"Marriage is neither heaven nor hell, it is simply purgatory. \"","source": "Abraham Lincoln"}, {"quote": "\"My dream is of a place and a time where America will once again be seen as the last best hope of earth. \"","source": "Abraham Lincoln"}, {"quote": "\"My great concern is not whether you have failed, but whether you are content with your failure. \"","source": "Abraham Lincoln"}, {"quote": "\"Never stir up litigation. A worse man can scarcely be found than one who does this. \"","source": "Abraham Lincoln"}, {"quote": "\"No man has a good enough memory to be a successful liar. \"","source": "Abraham Lincoln"}, {"quote": "\"No matter how much cats fight, there always seem to be plenty of kittens.\"","source": "Abraham Lincoln"}, {"quote": "\"Public opinion in this country is everything. \"","source": "Abraham Lincoln"}, {"quote": "\"Public sentiment is everything. With public sentiment, nothing can fail. Without it, nothing can succeed. \"","source": "Abraham Lincoln"}, {"quote": "\"Republicans are for both the man and the dollar, but in case of conflict the man before the dollar. \"","source": "Abraham Lincoln"}, {"quote": "\"Some day I shall be President. \"","source": "Abraham Lincoln"}, {"quote": "\"Some single mind must be master, else there will be no agreement in anything. \"","source": "Abraham Lincoln"}, {"quote": "\"Stand with anybody that stands right, stand with him while he is right and part with him when he goes wrong. \"","source": "Abraham Lincoln"}, {"quote": "\"Tact is the ability to describe others as they see themselves. \"","source": "Abraham Lincoln"}, {"quote": "\"That some achieve great success, is proof to all that others can achieve it as well. \"","source": "Abraham Lincoln"}, {"quote": "\"The best thing about the future is that it comes one day at a time. \"","source": "Abraham Lincoln"}, {"quote": "\"The best way to destroy an enemy is to make him a friend. \"","source": "Abraham Lincoln"}, {"quote": "\"The best way to get a bad law repealed is to enforce it strictly. \"","source": "Abraham Lincoln"}, {"quote": "\"The highest art is always the most religious, and the greatest artist is always a devout person. \"","source": "Abraham Lincoln"}, {"quote": "\"The people themselves, and not their servants, can safely reverse their own deliberate decisions. \"","source": "Abraham Lincoln"}, {"quote": "\"The people will save their government, if the government itself will allow them. \"","source": "Abraham Lincoln"}, {"quote": "\"The philosophy of the school room in one generation will be the philosophy of government in the next. \"","source": "Abraham Lincoln"}, {"quote": "\"The philosophy of the school room in one generation will be the philosophy of government in the next. \"","source": "Abraham Lincoln"}, {"quote": "\"Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius -- and a lot of courage -- to move in the opposite direction.\" ","source": "Albert Einstein"}, {"quote": "\"Anyone who has never made a mistake has never tried anything new.\" ","source": "Albert Einstein"}, {"quote": "\"Common sense is the collection of prejudices acquired by age eighteen.\" ","source": "Albert Einstein"}, {"quote": "\"Do not worry about your difficulties in Mathematics. I can assure you mine are still greater.\" ","source": "Albert Einstein"}, {"quote": "\"Education is what remains after one has forgotten everything he learned in school.\" ","source": "Albert Einstein"}, {"quote": "\"Equations are more important to me, because politics is for the present, but an equation is something for eternity.\" ","source": "Albert Einstein"}, {"quote": "\"God does not care about our mathematical difficulties. He integrates empirically.\" ","source": "Albert Einstein"}, {"quote": "\"God is subtle but he is not malicious.\" ","source": "Albert Einstein"}, {"quote": "\"Gravitation is not responsible for people falling in love.\" ","source": "Albert Einstein"}, {"quote": "\"Great spirits have often encountered violent opposition from weak minds.\" ","source": "Albert Einstein"}, {"quote": "\"Heroism on command, senseless violence, and all the loathsome nonsense that goes by the name of patriotism -- how passionately I hate them!\" ","source": "Albert Einstein"}, {"quote": "\"I am convinced that He (God) does not play dice.\" ","source": "Albert Einstein"}, {"quote": "\"I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.\" ","source": "Albert Einstein"}, {"quote": "\"I never think of the future. It comes soon enough.\" ","source": "Albert Einstein"}, {"quote": "\"I want to know Gods thoughts; the rest are details.\" ","source": "Albert Einstein"}, {"quote": "\"If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.\"","source": "Albert Einstein"}, {"quote": "\"Imagination is more important than knowledge.\" ","source": "Albert Einstein"}, {"quote": "\"In order to form an immaculate member of a flock of sheep one must, above all, be a sheep.\" ","source": "Albert Einstein"}, {"quote": "\"My religion consists of a humble admiration of the illimitable superior spirit who reveals himself in the slight details we are able to perceive with our frail and feeble mind.\" ","source": "Albert Einstein"}, {"quote": "\"Peace cannot be kept by force. It can only be achieved by understanding.\" ","source": "Albert Einstein"}, {"quote": "\"Reality is merely an illusion, albeit a very persistent one.\" ","source": "Albert Einstein"}, {"quote": "\"Science is a wonderful thing if one does not have to earn ones living at it.\" ","source": "Albert Einstein"}, {"quote": "\"Science without religion is lame. Religion without science is blind.\" ","source": "Albert Einstein"}, {"quote": "\"Sometimes one pays most for the things one gets for nothing.\" ","source": "Albert Einstein"}, {"quote": "\"Technological progress is like an axe in the hands of a pathological criminal.\" ","source": "Albert Einstein"}, {"quote": "\"The eternal mystery of the world is its comprehensibility.\" ","source": "Albert Einstein"}, {"quote": "\"The hardest thing in the world to understand is the income tax.\" ","source": "Albert Einstein"}, {"quote": "\"The important thing is not to stop questioning. Curiosity has its own reason for existing.\" ","source": "Albert Einstein"}, {"quote": "\"The only real valuable thing is intuition.\" ","source": "Albert Einstein"}, {"quote": "\"The only real valuable thing is intuition.\" ","source": "Albert Einstein"}, {"quote": "\"The only thing that interferes with my learning is my education.\" ","source": "Albert Einstein"}, {"quote": "\"The secret to creativity is knowing how to hide your sources.\" ","source": "Albert Einstein"}, {"quote": "\"The whole of science is nothing more than a refinement of everyday thinking.\" ","source": "Albert Einstein"}, {"quote": "\"Too many of us look upon Americans as dollar chasers. This is a cruel libel, even if it is reiterated thoughtlessly by the Americans themselves.\" ","source": "Albert Einstein"}, {"quote": "\"Two things are infinite: the universe and human stupidity; and Im not sure about the the universe.\"","source": "Albert Einstein"}, {"quote": "\"Weakness of attitude becomes weakness of character.\" ","source": "Albert Einstein"}, {"quote": "Everything should be made as simple as possible, but not simpler.\"","source": "Albert Einstein"}, {"quote": "Whoever undertakes to set himself up as a judge of Truth and Knowledge is shipwrecked by the laughter of the gods.\" ","source": "Albert Einstein"}, {"quote": "\"You save yourself or you remain unsaved\"","source": "Alice Sebold"}, {"quote": "\"A constitution is the arrangement of magistracies in a state. \"","source": "Aristotle "}, {"quote": "\"A friend to all is a friend to none. \"","source": "Aristotle"}, {"quote": "\"A great city is not to be confounded with a populous one. \"","source": "Aristotle"}, {"quote": "\"A true friend is one soul in two bodies. \"","source": "Aristotle"}, {"quote": "\"All human actions have one or more of these seven causes: chance, nature, compulsions, habit, reason, passion, desire\"","source": "Aristotle"}, {"quote": "\"All men by nature desire knowledge. \"","source": "Aristotle"}, {"quote": "\"All paid jobs absorb and degrade the mind. \"","source": "Aristotle"}, {"quote": "\"All virtue is summed up in dealing justly. \"","source": "Aristotle"}, {"quote": "\"At his best, man is the noblest of all animals; separated from law and justice he is the worst\"","source": "Aristotle"}, {"quote": "\"Bad men are full of repentance. \"","source": "Aristotle"}, {"quote": "\"Bashfulness is an ornament to youth, but a reproach to old age. \"","source": "Aristotle"}, {"quote": "\"Both oligarch and tyrant mistrust the people, and therefore deprive them of their arms. \"","source": "Aristotle"}, {"quote": "\"Change in all things is sweet. \"","source": "Aristotle"}, {"quote": "\"Character may almost be called the most effective means of persuasion. \"","source": "Aristotle"}, {"quote": "\"Courage is a mean with regard to fear and confidence\"","source": "Aristotle"}, {"quote": "\"Courage is the first of human qualities because it is the quality which guarantees the others. \"","source": "Aristotle"}, {"quote": "\"Democracy is when the indigent, and not the men of property, are the rulers. \"","source": "Aristotle"}, {"quote": "\"Dignity does not consist in possessing honors, but in deserving them. \"","source": "Aristotle"}, {"quote": "\"Education is an ornament in prosperity and a refuge in adversity. \"","source": "Aristotle"}, {"quote": "\"Education is the best provision for old age. \"","source": "Aristotle"}, {"quote": "\"Even when laws have been written down, they ought not always to remain unaltered. \"","source": "Aristotle"}, {"quote": "\"Fear is pain arising from the anticipation of evil. \"","source": "Aristotle"}, {"quote": "\"For though we love both the truth and our friends, piety requires us to honor the truth first. \"","source": "Aristotle"}, {"quote": "\"Friendship is a single soul dwelling in two bodies\"","source": "Aristotle"}, {"quote": "\"Friendship is essentially a partnership. \"","source": "Aristotle"}, {"quote": "\"Good habits formed at youth make all the difference\"","source": "Aristotle"}, {"quote": "\"Happiness depends upon ourselves. \"","source": "Aristotle"}, {"quote": "\"He who is to be a good ruler must have first been ruled. \"","source": "Aristotle"}, {"quote": "\"Homer has taught all other poets the art of telling lies skillfully\"","source": "Aristotle"}, {"quote": "\"Hope is a waking dream. \"","source": "Aristotle"}, {"quote": "\"Hope is the dream of a waking man. \"","source": "Aristotle"}, {"quote": "\"It is best to rise from life as from a banquet, neither thirsty nor drunken. \"","source": "Aristotle"}, {"quote": "\"Youth is easily deceived because it is quick to hope. \"","source": "Aristotle"}, {"quote": "\"640K ought to be enough for anybody.\"","source": "Bill Gates"}, {"quote": "\"As we look ahead into the next century, leaders will be those who empower others. \"","source": "Bill Gates"}, {"quote": "\"At Microsoft there are lots of brilliant ideas but the image is that they all come from the top - Im afraid thats not quite right. ","source": "Bill Gates"}, {"quote": "\"Be nice to nerds.Chances are you will end up working for one.\"","source": "Bill Gates"}, {"quote": "\"DOS is ugly and interferes with users experience. \"","source": "Bill Gates"}, {"quote": "\"I believe that if you show people the problems and you show them the solutions they will be moved to act. \"","source": "Bill Gates"}, {"quote": "\"I really had a lot of dreams when I was a kid, and I think a great deal of that grew out of the fact that I had a chance to read a lot. \"","source": "Bill Gates"}, {"quote": "\"If GM had kept up with technology like the computer industry has, we would all be driving $25 cars that got 1000 MPG. \"","source": "Bill Gates"}, {"quote": "\"If you cant make it good, at least make it look good\"","source": "Bill Gates"}, {"quote": "\"If you think your teacher is tough, wait until you get a boss. He doesnt have tenure. \"","source": "Bill Gates"}, {"quote": "\"Intellectual property has the shelf life of a banana. \"","source": "Bill Gates"}, {"quote": "\"Its fine to celebrate success but it is more important to heed the lessons of failure. \"","source": "Bill Gates"}, {"quote": "\"A superior man is modest in his speech, but exceeds in his actions. \"","source": "Confucius "}, {"quote": "\"Ability will never catch up with the demand for it. \"","source": "Confucius"}, {"quote": "\"An oppressive government is more to be feared than a tiger.  \"","source": "Confucius"}, {"quote": "\"Better a diamond with a flaw than a pebble without.\"","source": "Confucius"}, {"quote": "\"Choose a job you love, and you will never have to work a day in your life. \"","source": "Confucius"}, {"quote": "\"Death and life have their determined appointments; riches and honors depend upon heaven. \"","source": "Confucius"}, {"quote": "\"Do not impose on others what you yourself do not desire. \"","source": "Confucius"}, {"quote": "\"Everything has beauty, but not everyone sees it.\"","source": "Confucius"}, {"quote": "\"Faced with what is right, to leave it undone shows a lack of courage. \"","source": "Confucius"}, {"quote": "\"Go before the people with your example, and be laborious in their affairs. \"","source": "Confucius"}, {"quote": "\"He who learns but does not think, is lost! He who thinks but does not learn is in great danger. \"","source": "Confucius"}, {"quote": "\"He who speaks without modesty will find it difficult to make his words good. \"","source": "Confucius"}, {"quote": "\"He who speaks without modesty will find it difficult to make his words good. \"","source": "Confucius"}, {"quote": "\"I hear and I forget. I see and I remember. I do and I understand. \"","source": "Confucius"}, {"quote": "\"I want you to be everything thats you, deep at the center of your being. \"","source": "Confucius"}, {"quote": "\"I will not be concerned at other men not knowing me;I will be concerned at my own want of ability. \"","source": "Confucius"}, {"quote": "\"We cannot always build the future for our youth, but we can build our youth for the future.\"","source": "Franklin D. Roosevelt"}, {"quote": "\"That which does not kill us makes us stronger.\"","source": "Friedrich Nietzsche"}, {"quote": "\"A dictatorship would be a heck of a lot easier, theres no question about it.  \"","source": "George W. Bush "}, {"quote": "\"After the chaos and carnage of September 11th, it is not enough to serve our enemies with legal papers. \"","source": "George W. Bush"}, {"quote": "\"America will never seek a permission slip to defend the security of our people. \"","source": "George W. Bush"}, {"quote": "\"Americans are rising to the tasks of history, and they expect the same of us\"","source": "George W. Bush"}, {"quote": "\"And the cornerstone of my economic policies, when I first got elected, was cutting taxes on everybody on who paid taxes. \"","source": "George W. Bush"}, {"quote": "\"Bring them on. \"","source": "George W. Bush"}, {"quote": "\"Do I think faith will be an important part of being a good president? Yes, I do\"","source": "George W. Bush"}, {"quote": "\"Every nation in every region now has a decision to make. Either you are with us, or you are with the terrorists. \"","source": "George W. Bush"}, {"quote": "\"Everywhere that freedom stirs, let tyrants fear. \"","source": "George W. Bush"}, {"quote": "\"Faith crosses every border and touches every heart in every nation. \"","source": "George W. Bush"}, {"quote": "\"For all who love freedom and peace, the world without Saddam Husseins regime is a better and safer place. \"","source": "George W. Bush"}, {"quote": "\"For diplomacy to be effective, words must be credible - and no one can now doubt the word of America. \"","source": "George W. Bush"}, {"quote": "\"Freedom itself was attacked this morning by a faceless coward, and freedom will be defended. \"","source": "George W. Bush"}, {"quote": "\"Errors are not in the art but in the artificers. \"","source": "Isaac Newton "}, {"quote": "\"I can calculate the motion of heavenly bodies, but not the madness of people. \"","source": "Isaac Newton"}, {"quote": "\"If I have done the public any service, it is due to my patient thought.\"","source": "Isaac Newton"}, {"quote": "\"If I have seen further than others, it is by standing upon the shoulders of giants. \"","source": "Isaac Newton"}, {"quote": "\"It is the weight, not numbers of experiments that is to be regarded. \"","source": "Isaac Newton"}, {"quote": "\"Tact is the art of making a point without making an enemy. \"","source": "Isaac Newton"}, {"quote": "\"To every action there is always opposed an equal reaction. \"","source": "Isaac Newton"}, {"quote": "\"To me there has never been a higher source of earthly honor or distinction than that connected with advances in science. \"","source": "Isaac Newton"}, {"quote": "\"To myself I am only a child playing on the beach, while vast oceans of truth lie undiscovered before me. \"","source": "Isaac Newton"}, {"quote": "\"We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances. \"","source": "Isaac Newton"}, {"quote": "\"We build too many walls and not enough bridges. \"","source": "Isaac Newton"}, {"quote": "\"Life is what happens to you while youre busy making other plans.\"","source": "John Lennon"}, {"quote": "\"A coward is incapable of exhibiting love; it is the prerogative of the brave. \"","source": "Mahatma Gandhi "}, {"quote": "\"A man is but the product of his thoughts what he thinks, he becomes. \"","source": "Mahatma Gandhi"}, {"quote": "\"A nations culture resides in the hearts and in the soul of its people. \"","source": "Mahatma Gandhi"}, {"quote": "\"A religion that takes no account of practical affairs and does not help to solve them is no religion\"","source": "Mahatma Gandhi"}, {"quote": "\"A weak man is just by accident. A strong but non-violent man is unjust by accident. \"","source": "Mahatma Gandhi"}, {"quote": "\"Action expresses priorities. \"","source": "Mahatma Gandhi"}, {"quote": "\"Action is no less necessary than thought to the instinctive tendencies of the human frame\"","source": "Mahatma Gandhi"}, {"quote": "\"An error does not become truth by reason of multiplied propagation, nor does truth become error because nobody sees it. \"","source": "Mahatma Gandhi"}, {"quote": "\"An eye for an eye only ends up making the whole world blind. \"","source": "Mahatma Gandhi"}, {"quote": "\"An ounce of practice is worth more than tons of preaching\"","source": "Mahatma Gandhi"}, {"quote": "\"Fear of death makes us devoid both of valour and religion. For want of valour is want of religious faith.\"","source": "Mahatma Gandhi"}, {"quote": "\"First they ignore you, then they laugh at you, then they fight you, then you win\"","source": "Mahatma Gandhi"}, {"quote": "\"For me every ruler is alien that defies public opinion. \"","source": "Mahatma Gandhi"}, {"quote": "\"Freedom is never dear at any price. It is the breath of life. What would a man not pay for living\"","source": "Mahatma Gandhi"}, {"quote": "\"Freedom is not worth having if it does not connote freedom to err\"","source": "Mahatma Gandhi"}, {"quote": "\"Gentleness, self-sacrifice and generosity are the exclusive possession of no one race or religion. \"","source": "Mahatma Gandhi"}, {"quote": "\"God is, even though the whole world deny him. Truth stands, even if there be no public support. It is self-sustained. \"","source": "Mahatma Gandhi"}, {"quote": "\"God sometimes does try to the uttermost those whom he wishes to bless\"","source": "Mahatma Gandhi"}, {"quote": "\"God, as Truth, has been for me a treasure beyond price. May He be so to every one of us. \"","source": "Mahatma Gandhi"}, {"quote": "\"Happiness is when what you think, what you say, and what you do are in harmony. \"","source": "Mahatma Gandhi"}, {"quote": "\"Healthy discontent is the prelude to progress\"","source": "Mahatma Gandhi"}, {"quote": "\"Honest disagreement is often a good sign of progress\"","source": "Mahatma Gandhi"}, {"quote": "\"I am prepared to die, but there is no cause for which I am prepared to kill. \"","source": "Mahatma Gandhi"}, {"quote": "\"I believe in equality for everyone, except reporters and photographers. \"","source": "Mahatma Gandhi"}, {"quote": "\"I believe in the fundamental truth of all great religions of the world\"","source": "Mahatma Gandhi"}, {"quote": "\"I believe that a man is the strongest soldier for daring to die unarmed. \"","source": "Mahatma Gandhi"}, {"quote": "\"There is more to life than increasing its speed. \"","source": "Mahatma Gandhi"}, {"quote": "\"There is no principle worth the name if it is not wholly good. \"","source": "Mahatma Gandhi"}, {"quote": "\"Those who know how to think need no teachers\"","source": "Mahatma Gandhi"}, {"quote": "\"Those who say religion has nothing to do with politics do not know what religion is\"","source": "Mahatma Gandhi"}, {"quote": "\"Though we may know Him by a thousand names, He is one and the same to us all. \"","source": "Mahatma Gandhi"}, {"quote": "\"To believe in something, and not to live it, is dishonest. \"","source": "Mahatma Gandhi"}, {"quote": "\"To give pleasure to a single heart by a single act is better than a thousand heads bowing in prayer\"","source": "Mahatma Gandhi"}, {"quote": "\"Truth never damages a cause that is just. \"","source": "Mahatma Gandhi"}, {"quote": "\"Truth stands, even if there be no public support. It is self-sustained. \"","source": "Mahatma Gandhi"}, {"quote": "\"Unwearied ceaseless effort is the price that must be paid for turning faith into a rich infallible experience\"","source": "Mahatma Gandhi"}, {"quote": "\"Violent means will give violent freedom. That would be a menace to the world and to India herself. \"","source": "Mahatma Gandhi"}, {"quote": "\"Violent men have not been known in history to die to a man. They die up to a point. \"","source": "Mahatma Gandhi"}, {"quote": "\"We may have our private opinions but why should they be a bar to the meeting of hearts? \"","source": "Mahatma Gandhi"}, {"quote": "\"Never put off until tomorrow what you can do the day after tomorrow.\"","source": "Mark Twain"}, {"quote": "\"A genuine leader is not a searcher for consensus but a molder of consensus. \"","source": "Martin Luther King, Jr. "}, {"quote": "\"A lie cannot live.\"","source": "Martin Luther King, Jr."}, {"quote": "\"A man who wont die for something is not fit to live. \"","source": "Martin Luther King, Jr."}, {"quote": "\"A right delayed is a right denied. \"","source": "Martin Luther King, Jr."}, {"quote": "\"A riot is the language of the unheard. \"","source": "Martin Luther King, Jr."}, {"quote": "\"All labor that uplifts humanity has dignity and importance and should be undertaken with painstaking excellence.\"","source": "Martin Luther King, Jr."}, {"quote": "\"All progress is precarious, and the solution of one problem brings us face to face with another problem.\"","source": "Martin Luther King, Jr."}, {"quote": "\"Almost always, the creative dedicated minority has made the world better. \"","source": "Martin Luther King, Jr."}, {"quote": "\"At the center of non-violence stands the principle of love. \"","source": "Martin Luther King, Jr."}, {"quote": "\"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. \"","source": "Martin Luther King, Jr."}, {"quote": "\"Everything that we see is a shadow cast by that which we do not see. \"","source": "Martin Luther King, Jr."}, {"quote": "\"Faith is taking the first step even when you dont see the whole staircase\"","source": "Martin Luther King, Jr."}, {"quote": "\"In the End, we will remember not the words of our enemies, but the silence of our friends.\"","source": "Martin Luther King, Jr."}, {"quote": "\"It is not enough to say we must not wage war. It is necessary to love peace and sacrifice for it.\"","source": "Martin Luther King, Jr."}, {"quote": "\"Love is the only force capable of transforming an enemy into friend.\"","source": "Martin Luther King, Jr."}, {"quote": "\"Means we use must be as pure as the ends we seek.\"","source": "Martin Luther King, Jr."}, {"quote": "\"Never forget that everything Hitler did in Germany was legal.\"","source": "Martin Luther King, Jr."}, {"quote": "\"Never succumb to the temptation of bitterness.\"","source": "Martin Luther King, Jr."}, {"quote": "\"Nothing in all the world is more dangerous than sincere ignorance and conscientious stupidity.\"","source": "Martin Luther King, Jr."}, {"quote": "\"Nothing in the world is more dangerous than sincere ignorance and conscientious stupidity.\"","source": "Martin Luther King, Jr."}, {"quote": "\"One of the greatest casualties of the war in Vietnam is the Great Society... shot down on the battlefield of Vietnam.\"","source": "Martin Luther King, Jr."}, {"quote": "\"Our lives begin to end the day we become silent about things that matter. \"","source": "Martin Luther King, Jr."}, {"quote": "\"The past is prophetic in that it asserts loudly that wars are poor chisels for carving out peaceful tomorrows.\"","source": "Martin Luther King, Jr."}, {"quote": "\"The time is always right to do what is right.\"","source": "Martin Luther King, Jr."}, {"quote": "\"There can be no deep disappointment where there is not deep love.\"","source": "Martin Luther King, Jr."}, {"quote": "\"To be a Christian without prayer is no more possible than to be alive without breathing.\"","source": "Martin Luther King, Jr."}, {"quote": "\"War is a poor chisel to carve out tomorrow.\"","source": "Martin Luther King, Jr."}, {"quote": "\"Wars are poor chisels for carving out peaceful tomorrows\"","source": "Martin Luther King, Jr."}, {"quote": "\"We are not makers of history. We are made by history\"","source": "Martin Luther King, Jr."}, {"quote": "\"We have guided missiles and misguided men.\"","source": "Martin Luther King, Jr."}, {"quote": "\"We must accept finite disappointment, but never lose infinite hope.\"","source": "Martin Luther King, Jr."}, {"quote": "\"We must build dikes of courage to hold back the flood of fear.\"","source": "Martin Luther King, Jr."}, {"quote": "\"We must concentrate not merely on the negative expulsion of war but the postive affirmation of peace.\"","source": "Martin Luther King, Jr."}, {"quote": "\"We must learn to live together as brothers or perish together as fools.\"","source": "Martin Luther King, Jr."}, {"quote": "\"A good head and a good heart are always a formidable combination. \"","source": "Nelson Mandela "}, {"quote": "\"After climbing a great hill, one only finds that there are many more hills to climb\"","source": "Nelson Mandela"}, {"quote": "\"Education is the most powerful weapon which you can use to change the world. \"","source": "Nelson Mandela"}, {"quote": "\"For to be free is not merely to cast off ones chains, but to live in a way that respects and enhances the freedom of others. \"","source": "Nelson Mandela"}, {"quote": "\"I cannot conceive of Israel withdrawing if Arab states do not recognize Israel, within secure borders. \"","source": "Nelson Mandela"}, {"quote": "\"I detest racialism, because I regard it as a barbaric thing, whether it comes from a black man or a white man. \"","source": "Nelson Mandela"}, {"quote": "\"I dream of an Africa which is in peace with itself. \"","source": "Nelson Mandela"}, {"quote": "\"If you want to make peace with your enemy, you have to work with your enemy. Then he becomes your partner. \"","source": "Nelson Mandela"}, {"quote": "\"In my country we go to prison first and then become President. \"","source": "Nelson Mandela"}, {"quote": "\"It always seems impossible until its done. \"","source": "Nelson Mandela"}, {"quote": "\"Let freedom reign. The sun never set on so glorious a human achievement. \"","source": "Nelson Mandela"}, {"quote": "\"Let there be work, bread, water and salt for all. \"","source": "Nelson Mandela"}, {"quote": "\"Be yourself; everyone else is already taken.\"","source": "Oscar Wilde"}, {"quote": "\"I am so clever that sometimes I dont understand a single word of what I am saying.\"","source": "Oscar Wilde "}, {"quote": "\"A good decision is based on knowledge and not on numbers\"","source": "Plato"}, {"quote": "\"A hero is born among a hundred, a wise man is found among a thousand, but an accomplished one might not be found even among a hundred thousand men. \"","source": "Plato"}, {"quote": "\"A state arises, as I conceive, out of the needs of mankind; no one is self-sufficing, but all of us have many wants. \"","source": "Plato"}, {"quote": "\"All the gold which is under or upon the earth is not enough to give in exchange for virtue. \"","source": "Plato"}, {"quote": "\"And what, Socrates, is the food of the soul? Surely, I said, knowledge is the food of the soul. \"","source": "Plato"}, {"quote": "\"Any man may easily do harm, but not every man can do good to another. \"","source": "Plato"}, {"quote": "\"As the builders say, the larger stones do not lie well without the lesser\"","source": "Plato"}, {"quote": "\"Astronomy compels the soul to look upwards and leads us from this world to another. \"","source": "Plato"}, {"quote": "\"At the touch of love everyone becomes a poet. \"","source": "Plato"}, {"quote": "\"Better a little which is well done, than a great deal imperfectly. \"","source": "Plato"}, {"quote": "\"Courage is a kind of salvation. \"","source": "Plato"}, {"quote": "\"Courage is knowing what not to fear. \"","source": "Plato"}, {"quote": "\"Cunning... is but the low mimic of wisdom\"","source": "Plato"}, {"quote": "\"Death is not the worst that can happen to men. \"","source": "Plato"}, {"quote": "\"Democracy passes into despotism. \"","source": "Plato"}, {"quote": "\"Only the dead have seen the end of war. \"","source": "Plato"}, {"quote": "\"Opinion is the medium between knowledge and ignorance\"","source": "Plato"}, {"quote": "\"Philosophy begins in wonder. \"","source": "Plato"}, {"quote": "\"Philosophy is the highest music. \"","source": "Plato"}, {"quote": "\"Poetry is nearer to vital truth than history\"","source": "Plato"}, {"quote": "\"Poets utter great and wise things which they do not themselves understand\"","source": "Plato"}, {"quote": "\"Rhetoric is the art of ruling the minds of men. \"","source": "Plato"}, {"quote": "\"Science is nothing but perception. \"","source": "Plato"}, {"quote": "\"Science is nothing but perception. \"","source": "Plato"}, {"quote": "\"States are as the men, they grow out of human characters. \"","source": "Plato"}, {"quote": "\"The beginning is the most important part of the work. \"","source": "Plato"}, {"quote": "\"The blame is his who chooses: God is blameless\"","source": "Plato"}, {"quote": "\"The community which has neither poverty nor riches will always have the noblest principles\"","source": "Plato"}, {"quote": "\"The eyes of the soul of the multitudes are unable to endure the vision of the divine\"","source": "Plato"}, {"quote": "\"Thinking: the talking of the soul with itself. \"","source": "Plato"}, {"quote": "\"This City is what it is because our citizens are what they are. \"","source": "Plato"}, {"quote": "\"To suffer the penalty of too much haste, which is too little speed. \"","source": "Plato"}, {"quote": "\"Truth is the beginning of every good to the gods, and of every good to man. \"","source": "Plato"}, {"quote": "\"Twice and thrice over, as they say, good is it to repeat and review what is good. \"","source": "Plato"}, {"quote": "\"Tyranny naturally arises out of democracy. \"","source": "Plato"}, {"quote": "\"Virtue is relative to the actions and ages of each of us in all that we do. \"","source": "Plato"}, {"quote": "\"We are twice armed if we fight with faith\"","source": "Plato"}, {"quote": "\"We do not learn; and what we call learning is only a process of recollection. \"","source": "Plato"}, {"quote": "\"A day without sunshine is like, you know, night.\"","source": "Steve Martin"}, {"quote": "\"Discontent is the first necessity of progress. \"","source": "Thomas A. Edison "}, {"quote": "\"Everything comes to him who hustles while he waits. \"","source": "Thomas A. Edison"}, {"quote": "\"Genius is one percent inspiration and ninety-nine percent perspiration. \"","source": "Thomas A. Edison"}, {"quote": "\"Great ideas originate in the muscles.\"","source": "Thomas A. Edison"}, {"quote": "\"I am proud of the fact that I never invented weapons to kill. \"","source": "Thomas A. Edison"}, {"quote": "\"I find my greatest pleasure, and so my reward, in the work that precedes what the world calls success. \"","source": "Thomas A. Edison"}, {"quote": "\"I have friends in overalls whose friendship I would not swap for the favor of the kings of the world. \"","source": "Thomas A. Edison"}, {"quote": "\"I never did a days work in my life. It was all fun. \"","source": "Thomas A. Edison"}, {"quote": "\"I never did anything by accident, nor did any of my inventions come by accident; they came by work. \"","source": "Thomas A. Edison"}, {"quote": "\"If we did all the things we are capable of, we would literally astound ourselves. \"","source": "Thomas A. Edison"}, {"quote": "\"A man should never neglect his family for business.\"","source": "Walt Disney"}, {"quote": "\"All our dreams can come true, if we have the courage to pursue them.\"","source": "Walt Disney"}, {"quote": "\"I do not like to repeat successes, I like to go on to other things.\"","source": "Walt Disney"}, {"quote": "\"If you can dream it, you can do it\"","source": "Walt Disney"}, {"quote": "\"The more you like yourself, the less you are like anyone else, which makes you unique.\"","source": "Walt Disney"}, {"quote": "\"The way to get started is to quit talking and begin doing.\"","source": "Walt Disney"}, {"quote": "\"A fool thinks himself to be wise, but a wise man knows himself to be a fool. \"","source": "William Shakespeare "}, {"quote": "\"A man loves the meat in his youth that he cannot endure in his age. \"","source": "William Shakespeare"}, {"quote": "\"A peace is of the nature of a conquest; for then both parties nobly are subdued, and neither party loser. \"","source": "William Shakespeare"}, {"quote": "\"Absence from those we love is self from self - a deadly banishment. \"","source": "William Shakespeare"}, {"quote": "\"Alas, I am a woman friendless, hopeless! \"","source": "William Shakespeare"}, {"quote": "\"Ambition should be made of sterner stuff\"","source": "William Shakespeare"}, {"quote": "\"An overflow of good converts to bad. \"","source": "William Shakespeare"}, {"quote": "\"And oftentimes excusing of a fault doth make the fault the worse by the excuse. \"","source": "William Shakespeare"}, {"quote": "\"As flies to wanton boys, are we to the gods; they kill us for their sport. \"","source": "William Shakespeare"}, {"quote": "\"As he was valiant, I honour him. But as he was ambitious, I slew him. \"","source": "William Shakespeare"}, {"quote": "\"As soon go kindle fire with snow, as seek to quench the fire of love with words. \"","source": "William Shakespeare"}, {"quote": "\"Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them. \"","source": "William Shakespeare"}, {"quote": "\"Better a witty fool than a foolish wit. \"","source": "William Shakespeare"}, {"quote": "\"Better three hours too soon than a minute too late\"","source": "William Shakespeare"}, {"quote": "\"Boldness be my friend. \"","source": "William Shakespeare"}, {"quote": "\"Brevity is the soul of wit. \"","source": "William Shakespeare"}, {"quote": "\"But men are men; the best sometimes forget. \"","source": "William Shakespeare"}, {"quote": "\"O! Let me not be mad, not mad, sweet heaven; keep me in temper; I would not be mad!\"","source": "William Shakespeare"}, {"quote": "\"One touch of nature makes the whole world kin.\"","source": "William Shakespeare"}, {"quote": "\"Our doubts are traitors and make us lose the good we oft might win by fearing to attempt. \"","source": "William Shakespeare"}, {"quote": "\"Our peace shall stand as firm as rocky mountains.\"","source": "William Shakespeare"}, {"quote": "\"Parting is such sweet sorrow.\"","source": "William Shakespeare"}, {"quote": "\"Pleasure and action make the hours seem short.\"","source": "William Shakespeare"}, {"quote": "\"Poor and content is rich, and rich enough.\"","source": "William Shakespeare"}, {"quote": "\"Praise us as we are tasted, allow us as we prove.\"","source": "William Shakespeare"}, {"quote": "\"Reputation is an idle and most false imposition; oft got without merit, and lost without deserving.\"","source": "William Shakespeare"}, {"quote": "\"So foul and fair a day I have not seen.\"","source": "William Shakespeare"}, {"quote": "\"Some are born great, some achieve greatness, and some have greatness thrust upon them.\"","source": "William Shakespeare"}, {"quote": "\"Some rise by sin, and some by virtue fall.\"","source": "William Shakespeare"}, {"quote": "\"Speak low, if you speak love.\"","source": "William Shakespeare"}, {"quote": "\"Such as we are made of, such we be.\"","source": "William Shakespeare"}, {"quote": "\"Suit the action to the word, the word to the action.\"","source": "William Shakespeare"}, {"quote": "\"Suspicion always haunts the guilty mind.\"","source": "William Shakespeare"}, {"quote": "\"To do a great right do a little wrong.\"","source": "William Shakespeare"}, {"quote": "\"Truly, I would not hang a dog by my will, much more a man who hath any honesty in him.\"","source": "William Shakespeare"}, {"quote": "\"Uneasy lies the head that wears a crown.\"","source": "William Shakespeare"}, {"quote": "\"Use every man after his desert, and who should scape whipping?\"","source": "William Shakespeare"}, {"quote": "\"Virtue is bold, and goodness never fearful.\"","source": "William Shakespeare"}, {"quote": "\"Virtue itself scapes not calumnious strokes.\"","source": "William Shakespeare"}, {"quote": "\"We know what we are, but know not what we may be.\"","source": "William Shakespeare"}, {"quote": "\"What is past is prologue\"","source": "William Shakespeare"}, {"quote": "\"What may man within him hide, though angel on the outward side!\"","source": "William Shakespeare"}, {"quote": "\"Whats in a name? That which we call a rose by any other name would smell as sweet.\"","source": "William Shakespeare"}, {"quote": "\"When a father gives to his son, both laugh; when a son gives to his father, both cry\"","source": "William Shakespeare"}, {"quote": "\"When sorrows come, they come not single spies, but in battalions.\"","source": "William Shakespeare"}, {"quote": "\"When we are born we cry that we are come to this great stage of fools.\"","source": "William Shakespeare"}]
+[
+    {
+        "quote": "\"A friend is one who has the same enemies as you have.\"",
+        "source": "Abraham Lincoln "
+    },
+    {
+        "quote": "\"A house divided against itself cannot stand. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"All my life I have tried to pluck a thistle and plant a flower wherever the flower would grow in thought and mind.\"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"All that I am, or hope to be, I owe to my angel mother. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Always bear in mind that your own resolution to succeed is more important than any other. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Am I not destroying my enemies when I make friends of them? \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"As I would not be a slave, so I would not be a master. This expresses my idea of democracy. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"As our case is new, we must think and act anew.\"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Avoid popularity if you would have peace. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Ballots are the rightful and peaceful successors to bullets. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Be sure you put your feet in the right place, then stand firm. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Better to remain silent and be thought a fool than to speak out and remove all doubt. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Character is like a tree and reputation like a shadow. The shadow is what we think of it; the tree is the real thing. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Common looking people are the best in the world: that is the reason the Lord makes so many of them. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Every one desires to live long, but no one would be old. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Give me six hours to chop down a tree and I will spend the first four sharpening the axe. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Government of the people, by the people, for the people, shall not perish from the Earth. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"He has a right to criticize, who has a heart to help.\"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"He who molds the public sentiment... makes statutes and decisions possible or impossible to make. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Hold on with a bulldog grip, and chew and choke as much as possible. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"I can make more generals, but horses cost money. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"I destroy my enemies when I make them my friends. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"I do not think much of a man who is not wiser today than he was yesterday.\"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"I do the very best I know how - the very best I can; and I mean to keep on doing so until the end. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"I like to see a man proud of the place in which he lives. I like to see a man live so that his place will be proud of him. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"I never had a policy; I have just tried to do my very best each and every day. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"I walk slowly, but I never walk backward. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"I will prepare and some day my chance will come. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"I will prepare and some day my chance will come. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"I will prepare and some day my chance will come. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"I will prepare and some day my chance will come. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Important principles may, and must, be inflexible.\"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"In great contests each party claims to act in accordance with the will of God. Both may be, and one must be wrong. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"It has been my experience that folks who have no vices have very few virtues. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Knavery and flattery are blood relations.\"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Lets have faith that right makes might; and in that faith let us, to the end, dare to do our duty as we understand it. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Marriage is neither heaven nor hell, it is simply purgatory. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Marriage is neither heaven nor hell, it is simply purgatory. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"My dream is of a place and a time where America will once again be seen as the last best hope of earth. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"My great concern is not whether you have failed, but whether you are content with your failure. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Never stir up litigation. A worse man can scarcely be found than one who does this. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"No man has a good enough memory to be a successful liar. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"No matter how much cats fight, there always seem to be plenty of kittens.\"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Public opinion in this country is everything. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Public sentiment is everything. With public sentiment, nothing can fail. Without it, nothing can succeed. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Republicans are for both the man and the dollar, but in case of conflict the man before the dollar. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Some day I shall be President. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Some single mind must be master, else there will be no agreement in anything. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Stand with anybody that stands right, stand with him while he is right and part with him when he goes wrong. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Tact is the ability to describe others as they see themselves. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"That some achieve great success, is proof to all that others can achieve it as well. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"The best thing about the future is that it comes one day at a time. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"The best way to destroy an enemy is to make him a friend. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"The best way to get a bad law repealed is to enforce it strictly. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"The highest art is always the most religious, and the greatest artist is always a devout person. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"The people themselves, and not their servants, can safely reverse their own deliberate decisions. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"The people will save their government, if the government itself will allow them. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"The philosophy of the school room in one generation will be the philosophy of government in the next. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"The philosophy of the school room in one generation will be the philosophy of government in the next. \"",
+        "source": "Abraham Lincoln"
+    },
+    {
+        "quote": "\"Any intelligent fool can make things bigger, more complex, and more violent. It takes a touch of genius -- and a lot of courage -- to move in the opposite direction.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Anyone who has never made a mistake has never tried anything new.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Common sense is the collection of prejudices acquired by age eighteen.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Do not worry about your difficulties in Mathematics. I can assure you mine are still greater.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Education is what remains after one has forgotten everything he learned in school.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Equations are more important to me, because politics is for the present, but an equation is something for eternity.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"God does not care about our mathematical difficulties. He integrates empirically.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"God is subtle but he is not malicious.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Gravitation is not responsible for people falling in love.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Great spirits have often encountered violent opposition from weak minds.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Heroism on command, senseless violence, and all the loathsome nonsense that goes by the name of patriotism -- how passionately I hate them!\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"I am convinced that He (God) does not play dice.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"I know not with what weapons World War III will be fought, but World War IV will be fought with sticks and stones.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"I never think of the future. It comes soon enough.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"I want to know Gods thoughts; the rest are details.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"If A is a success in life, then A equals x plus y plus z. Work is x; y is play; and z is keeping your mouth shut.\"",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Imagination is more important than knowledge.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"In order to form an immaculate member of a flock of sheep one must, above all, be a sheep.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"My religion consists of a humble admiration of the illimitable superior spirit who reveals himself in the slight details we are able to perceive with our frail and feeble mind.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Peace cannot be kept by force. It can only be achieved by understanding.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Reality is merely an illusion, albeit a very persistent one.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Science is a wonderful thing if one does not have to earn ones living at it.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Science without religion is lame. Religion without science is blind.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Sometimes one pays most for the things one gets for nothing.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Technological progress is like an axe in the hands of a pathological criminal.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"The eternal mystery of the world is its comprehensibility.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"The hardest thing in the world to understand is the income tax.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"The important thing is not to stop questioning. Curiosity has its own reason for existing.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"The only real valuable thing is intuition.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"The only real valuable thing is intuition.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"The only thing that interferes with my learning is my education.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"The secret to creativity is knowing how to hide your sources.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"The whole of science is nothing more than a refinement of everyday thinking.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Too many of us look upon Americans as dollar chasers. This is a cruel libel, even if it is reiterated thoughtlessly by the Americans themselves.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Two things are infinite: the universe and human stupidity; and Im not sure about the the universe.\"",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"Weakness of attitude becomes weakness of character.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "Everything should be made as simple as possible, but not simpler.\"",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "Whoever undertakes to set himself up as a judge of Truth and Knowledge is shipwrecked by the laughter of the gods.\" ",
+        "source": "Albert Einstein"
+    },
+    {
+        "quote": "\"You save yourself or you remain unsaved\"",
+        "source": "Alice Sebold"
+    },
+    {
+        "quote": "\"A constitution is the arrangement of magistracies in a state. \"",
+        "source": "Aristotle "
+    },
+    {
+        "quote": "\"A friend to all is a friend to none. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"A great city is not to be confounded with a populous one. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"A true friend is one soul in two bodies. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"All human actions have one or more of these seven causes: chance, nature, compulsions, habit, reason, passion, desire\"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"All men by nature desire knowledge. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"All paid jobs absorb and degrade the mind. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"All virtue is summed up in dealing justly. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"At his best, man is the noblest of all animals; separated from law and justice he is the worst\"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Bad men are full of repentance. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Bashfulness is an ornament to youth, but a reproach to old age. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Both oligarch and tyrant mistrust the people, and therefore deprive them of their arms. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Change in all things is sweet. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Character may almost be called the most effective means of persuasion. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Courage is a mean with regard to fear and confidence\"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Courage is the first of human qualities because it is the quality which guarantees the others. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Democracy is when the indigent, and not the men of property, are the rulers. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Dignity does not consist in possessing honors, but in deserving them. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Education is an ornament in prosperity and a refuge in adversity. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Education is the best provision for old age. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Even when laws have been written down, they ought not always to remain unaltered. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Fear is pain arising from the anticipation of evil. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"For though we love both the truth and our friends, piety requires us to honor the truth first. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Friendship is a single soul dwelling in two bodies\"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Friendship is essentially a partnership. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Good habits formed at youth make all the difference\"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Happiness depends upon ourselves. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"He who is to be a good ruler must have first been ruled. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Homer has taught all other poets the art of telling lies skillfully\"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Hope is a waking dream. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Hope is the dream of a waking man. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"It is best to rise from life as from a banquet, neither thirsty nor drunken. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"Youth is easily deceived because it is quick to hope. \"",
+        "source": "Aristotle"
+    },
+    {
+        "quote": "\"640K ought to be enough for anybody.\"",
+        "source": "Bill Gates"
+    },
+    {
+        "quote": "\"As we look ahead into the next century, leaders will be those who empower others. \"",
+        "source": "Bill Gates"
+    },
+    {
+        "quote": "\"At Microsoft there are lots of brilliant ideas but the image is that they all come from the top - Im afraid thats not quite right. ",
+        "source": "Bill Gates"
+    },
+    {
+        "quote": "\"Be nice to nerds.Chances are you will end up working for one.\"",
+        "source": "Bill Gates"
+    },
+    {
+        "quote": "\"DOS is ugly and interferes with users experience. \"",
+        "source": "Bill Gates"
+    },
+    {
+        "quote": "\"I believe that if you show people the problems and you show them the solutions they will be moved to act. \"",
+        "source": "Bill Gates"
+    },
+    {
+        "quote": "\"I really had a lot of dreams when I was a kid, and I think a great deal of that grew out of the fact that I had a chance to read a lot. \"",
+        "source": "Bill Gates"
+    },
+    {
+        "quote": "\"If GM had kept up with technology like the computer industry has, we would all be driving $25 cars that got 1000 MPG. \"",
+        "source": "Bill Gates"
+    },
+    {
+        "quote": "\"If you cant make it good, at least make it look good\"",
+        "source": "Bill Gates"
+    },
+    {
+        "quote": "\"If you think your teacher is tough, wait until you get a boss. He doesnt have tenure. \"",
+        "source": "Bill Gates"
+    },
+    {
+        "quote": "\"Intellectual property has the shelf life of a banana. \"",
+        "source": "Bill Gates"
+    },
+    {
+        "quote": "\"Its fine to celebrate success but it is more important to heed the lessons of failure. \"",
+        "source": "Bill Gates"
+    },
+    {
+        "quote": "\"A superior man is modest in his speech, but exceeds in his actions. \"",
+        "source": "Confucius "
+    },
+    {
+        "quote": "\"Ability will never catch up with the demand for it. \"",
+        "source": "Confucius"
+    },
+    {
+        "quote": "\"An oppressive government is more to be feared than a tiger.  \"",
+        "source": "Confucius"
+    },
+    {
+        "quote": "\"Better a diamond with a flaw than a pebble without.\"",
+        "source": "Confucius"
+    },
+    {
+        "quote": "\"Choose a job you love, and you will never have to work a day in your life. \"",
+        "source": "Confucius"
+    },
+    {
+        "quote": "\"Death and life have their determined appointments; riches and honors depend upon heaven. \"",
+        "source": "Confucius"
+    },
+    {
+        "quote": "\"Do not impose on others what you yourself do not desire. \"",
+        "source": "Confucius"
+    },
+    {
+        "quote": "\"Everything has beauty, but not everyone sees it.\"",
+        "source": "Confucius"
+    },
+    {
+        "quote": "\"Faced with what is right, to leave it undone shows a lack of courage. \"",
+        "source": "Confucius"
+    },
+    {
+        "quote": "\"Go before the people with your example, and be laborious in their affairs. \"",
+        "source": "Confucius"
+    },
+    {
+        "quote": "\"He who learns but does not think, is lost! He who thinks but does not learn is in great danger. \"",
+        "source": "Confucius"
+    },
+    {
+        "quote": "\"He who speaks without modesty will find it difficult to make his words good. \"",
+        "source": "Confucius"
+    },
+    {
+        "quote": "\"He who speaks without modesty will find it difficult to make his words good. \"",
+        "source": "Confucius"
+    },
+    {
+        "quote": "\"I hear and I forget. I see and I remember. I do and I understand. \"",
+        "source": "Confucius"
+    },
+    {
+        "quote": "\"I want you to be everything thats you, deep at the center of your being. \"",
+        "source": "Confucius"
+    },
+    {
+        "quote": "\"I will not be concerned at other men not knowing me;I will be concerned at my own want of ability. \"",
+        "source": "Confucius"
+    },
+    {
+        "quote": "\"We cannot always build the future for our youth, but we can build our youth for the future.\"",
+        "source": "Franklin D. Roosevelt"
+    },
+    {
+        "quote": "\"That which does not kill us makes us stronger.\"",
+        "source": "Friedrich Nietzsche"
+    },
+    {
+        "quote": "\"A dictatorship would be a heck of a lot easier, theres no question about it.  \"",
+        "source": "George W. Bush "
+    },
+    {
+        "quote": "\"After the chaos and carnage of September 11th, it is not enough to serve our enemies with legal papers. \"",
+        "source": "George W. Bush"
+    },
+    {
+        "quote": "\"America will never seek a permission slip to defend the security of our people. \"",
+        "source": "George W. Bush"
+    },
+    {
+        "quote": "\"Americans are rising to the tasks of history, and they expect the same of us\"",
+        "source": "George W. Bush"
+    },
+    {
+        "quote": "\"And the cornerstone of my economic policies, when I first got elected, was cutting taxes on everybody on who paid taxes. \"",
+        "source": "George W. Bush"
+    },
+    {
+        "quote": "\"Bring them on. \"",
+        "source": "George W. Bush"
+    },
+    {
+        "quote": "\"Do I think faith will be an important part of being a good president? Yes, I do\"",
+        "source": "George W. Bush"
+    },
+    {
+        "quote": "\"Every nation in every region now has a decision to make. Either you are with us, or you are with the terrorists. \"",
+        "source": "George W. Bush"
+    },
+    {
+        "quote": "\"Everywhere that freedom stirs, let tyrants fear. \"",
+        "source": "George W. Bush"
+    },
+    {
+        "quote": "\"Faith crosses every border and touches every heart in every nation. \"",
+        "source": "George W. Bush"
+    },
+    {
+        "quote": "\"For all who love freedom and peace, the world without Saddam Husseins regime is a better and safer place. \"",
+        "source": "George W. Bush"
+    },
+    {
+        "quote": "\"For diplomacy to be effective, words must be credible - and no one can now doubt the word of America. \"",
+        "source": "George W. Bush"
+    },
+    {
+        "quote": "\"Freedom itself was attacked this morning by a faceless coward, and freedom will be defended. \"",
+        "source": "George W. Bush"
+    },
+    {
+        "quote": "\"Errors are not in the art but in the artificers. \"",
+        "source": "Isaac Newton "
+    },
+    {
+        "quote": "\"I can calculate the motion of heavenly bodies, but not the madness of people. \"",
+        "source": "Isaac Newton"
+    },
+    {
+        "quote": "\"If I have done the public any service, it is due to my patient thought.\"",
+        "source": "Isaac Newton"
+    },
+    {
+        "quote": "\"If I have seen further than others, it is by standing upon the shoulders of giants. \"",
+        "source": "Isaac Newton"
+    },
+    {
+        "quote": "\"It is the weight, not numbers of experiments that is to be regarded. \"",
+        "source": "Isaac Newton"
+    },
+    {
+        "quote": "\"Tact is the art of making a point without making an enemy. \"",
+        "source": "Isaac Newton"
+    },
+    {
+        "quote": "\"To every action there is always opposed an equal reaction. \"",
+        "source": "Isaac Newton"
+    },
+    {
+        "quote": "\"To me there has never been a higher source of earthly honor or distinction than that connected with advances in science. \"",
+        "source": "Isaac Newton"
+    },
+    {
+        "quote": "\"To myself I am only a child playing on the beach, while vast oceans of truth lie undiscovered before me. \"",
+        "source": "Isaac Newton"
+    },
+    {
+        "quote": "\"We are to admit no more causes of natural things than such as are both true and sufficient to explain their appearances. \"",
+        "source": "Isaac Newton"
+    },
+    {
+        "quote": "\"We build too many walls and not enough bridges. \"",
+        "source": "Isaac Newton"
+    },
+    {
+        "quote": "\"Life is what happens to you while youre busy making other plans.\"",
+        "source": "John Lennon"
+    },
+    {
+        "quote": "\"A coward is incapable of exhibiting love; it is the prerogative of the brave. \"",
+        "source": "Mahatma Gandhi "
+    },
+    {
+        "quote": "\"A man is but the product of his thoughts what he thinks, he becomes. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"A nations culture resides in the hearts and in the soul of its people. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"A religion that takes no account of practical affairs and does not help to solve them is no religion\"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"A weak man is just by accident. A strong but non-violent man is unjust by accident. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Action expresses priorities. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Action is no less necessary than thought to the instinctive tendencies of the human frame\"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"An error does not become truth by reason of multiplied propagation, nor does truth become error because nobody sees it. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"An eye for an eye only ends up making the whole world blind. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"An ounce of practice is worth more than tons of preaching\"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Fear of death makes us devoid both of valour and religion. For want of valour is want of religious faith.\"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"First they ignore you, then they laugh at you, then they fight you, then you win\"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"For me every ruler is alien that defies public opinion. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Freedom is never dear at any price. It is the breath of life. What would a man not pay for living\"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Freedom is not worth having if it does not connote freedom to err\"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Gentleness, self-sacrifice and generosity are the exclusive possession of no one race or religion. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"God is, even though the whole world deny him. Truth stands, even if there be no public support. It is self-sustained. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"God sometimes does try to the uttermost those whom he wishes to bless\"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"God, as Truth, has been for me a treasure beyond price. May He be so to every one of us. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Happiness is when what you think, what you say, and what you do are in harmony. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Healthy discontent is the prelude to progress\"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Honest disagreement is often a good sign of progress\"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"I am prepared to die, but there is no cause for which I am prepared to kill. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"I believe in equality for everyone, except reporters and photographers. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"I believe in the fundamental truth of all great religions of the world\"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"I believe that a man is the strongest soldier for daring to die unarmed. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"There is more to life than increasing its speed. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"There is no principle worth the name if it is not wholly good. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Those who know how to think need no teachers\"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Those who say religion has nothing to do with politics do not know what religion is\"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Though we may know Him by a thousand names, He is one and the same to us all. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"To believe in something, and not to live it, is dishonest. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"To give pleasure to a single heart by a single act is better than a thousand heads bowing in prayer\"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Truth never damages a cause that is just. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Truth stands, even if there be no public support. It is self-sustained. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Unwearied ceaseless effort is the price that must be paid for turning faith into a rich infallible experience\"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Violent means will give violent freedom. That would be a menace to the world and to India herself. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Violent men have not been known in history to die to a man. They die up to a point. \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"We may have our private opinions but why should they be a bar to the meeting of hearts? \"",
+        "source": "Mahatma Gandhi"
+    },
+    {
+        "quote": "\"Never put off until tomorrow what you can do the day after tomorrow.\"",
+        "source": "Mark Twain"
+    },
+    {
+        "quote": "\"A genuine leader is not a searcher for consensus but a molder of consensus. \"",
+        "source": "Martin Luther King, Jr. "
+    },
+    {
+        "quote": "\"A lie cannot live.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"A man who wont die for something is not fit to live. \"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"A right delayed is a right denied. \"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"A riot is the language of the unheard. \"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"All labor that uplifts humanity has dignity and importance and should be undertaken with painstaking excellence.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"All progress is precarious, and the solution of one problem brings us face to face with another problem.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"Almost always, the creative dedicated minority has made the world better. \"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"At the center of non-violence stands the principle of love. \"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that. \"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"Everything that we see is a shadow cast by that which we do not see. \"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"Faith is taking the first step even when you dont see the whole staircase\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"In the End, we will remember not the words of our enemies, but the silence of our friends.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"It is not enough to say we must not wage war. It is necessary to love peace and sacrifice for it.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"Love is the only force capable of transforming an enemy into friend.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"Means we use must be as pure as the ends we seek.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"Never forget that everything Hitler did in Germany was legal.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"Never succumb to the temptation of bitterness.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"Nothing in all the world is more dangerous than sincere ignorance and conscientious stupidity.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"Nothing in the world is more dangerous than sincere ignorance and conscientious stupidity.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"One of the greatest casualties of the war in Vietnam is the Great Society... shot down on the battlefield of Vietnam.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"Our lives begin to end the day we become silent about things that matter. \"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"The past is prophetic in that it asserts loudly that wars are poor chisels for carving out peaceful tomorrows.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"The time is always right to do what is right.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"There can be no deep disappointment where there is not deep love.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"To be a Christian without prayer is no more possible than to be alive without breathing.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"War is a poor chisel to carve out tomorrow.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"Wars are poor chisels for carving out peaceful tomorrows\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"We are not makers of history. We are made by history\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"We have guided missiles and misguided men.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"We must accept finite disappointment, but never lose infinite hope.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"We must build dikes of courage to hold back the flood of fear.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"We must concentrate not merely on the negative expulsion of war but the postive affirmation of peace.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"We must learn to live together as brothers or perish together as fools.\"",
+        "source": "Martin Luther King, Jr."
+    },
+    {
+        "quote": "\"A good head and a good heart are always a formidable combination. \"",
+        "source": "Nelson Mandela "
+    },
+    {
+        "quote": "\"After climbing a great hill, one only finds that there are many more hills to climb\"",
+        "source": "Nelson Mandela"
+    },
+    {
+        "quote": "\"Education is the most powerful weapon which you can use to change the world. \"",
+        "source": "Nelson Mandela"
+    },
+    {
+        "quote": "\"For to be free is not merely to cast off ones chains, but to live in a way that respects and enhances the freedom of others. \"",
+        "source": "Nelson Mandela"
+    },
+    {
+        "quote": "\"I cannot conceive of Israel withdrawing if Arab states do not recognize Israel, within secure borders. \"",
+        "source": "Nelson Mandela"
+    },
+    {
+        "quote": "\"I detest racialism, because I regard it as a barbaric thing, whether it comes from a black man or a white man. \"",
+        "source": "Nelson Mandela"
+    },
+    {
+        "quote": "\"I dream of an Africa which is in peace with itself. \"",
+        "source": "Nelson Mandela"
+    },
+    {
+        "quote": "\"If you want to make peace with your enemy, you have to work with your enemy. Then he becomes your partner. \"",
+        "source": "Nelson Mandela"
+    },
+    {
+        "quote": "\"In my country we go to prison first and then become President. \"",
+        "source": "Nelson Mandela"
+    },
+    {
+        "quote": "\"It always seems impossible until its done. \"",
+        "source": "Nelson Mandela"
+    },
+    {
+        "quote": "\"Let freedom reign. The sun never set on so glorious a human achievement. \"",
+        "source": "Nelson Mandela"
+    },
+    {
+        "quote": "\"Let there be work, bread, water and salt for all. \"",
+        "source": "Nelson Mandela"
+    },
+    {
+        "quote": "\"Be yourself; everyone else is already taken.\"",
+        "source": "Oscar Wilde"
+    },
+    {
+        "quote": "\"I am so clever that sometimes I dont understand a single word of what I am saying.\"",
+        "source": "Oscar Wilde "
+    },
+    {
+        "quote": "\"A good decision is based on knowledge and not on numbers\"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"A hero is born among a hundred, a wise man is found among a thousand, but an accomplished one might not be found even among a hundred thousand men. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"A state arises, as I conceive, out of the needs of mankind; no one is self-sufficing, but all of us have many wants. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"All the gold which is under or upon the earth is not enough to give in exchange for virtue. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"And what, Socrates, is the food of the soul? Surely, I said, knowledge is the food of the soul. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Any man may easily do harm, but not every man can do good to another. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"As the builders say, the larger stones do not lie well without the lesser\"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Astronomy compels the soul to look upwards and leads us from this world to another. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"At the touch of love everyone becomes a poet. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Better a little which is well done, than a great deal imperfectly. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Courage is a kind of salvation. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Courage is knowing what not to fear. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Cunning... is but the low mimic of wisdom\"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Death is not the worst that can happen to men. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Democracy passes into despotism. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Only the dead have seen the end of war. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Opinion is the medium between knowledge and ignorance\"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Philosophy begins in wonder. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Philosophy is the highest music. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Poetry is nearer to vital truth than history\"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Poets utter great and wise things which they do not themselves understand\"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Rhetoric is the art of ruling the minds of men. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Science is nothing but perception. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Science is nothing but perception. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"States are as the men, they grow out of human characters. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"The beginning is the most important part of the work. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"The blame is his who chooses: God is blameless\"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"The community which has neither poverty nor riches will always have the noblest principles\"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"The eyes of the soul of the multitudes are unable to endure the vision of the divine\"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Thinking: the talking of the soul with itself. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"This City is what it is because our citizens are what they are. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"To suffer the penalty of too much haste, which is too little speed. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Truth is the beginning of every good to the gods, and of every good to man. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Twice and thrice over, as they say, good is it to repeat and review what is good. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Tyranny naturally arises out of democracy. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"Virtue is relative to the actions and ages of each of us in all that we do. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"We are twice armed if we fight with faith\"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"We do not learn; and what we call learning is only a process of recollection. \"",
+        "source": "Plato"
+    },
+    {
+        "quote": "\"A day without sunshine is like, you know, night.\"",
+        "source": "Steve Martin"
+    },
+    {
+        "quote": "\"Discontent is the first necessity of progress. \"",
+        "source": "Thomas A. Edison "
+    },
+    {
+        "quote": "\"Everything comes to him who hustles while he waits. \"",
+        "source": "Thomas A. Edison"
+    },
+    {
+        "quote": "\"Genius is one percent inspiration and ninety-nine percent perspiration. \"",
+        "source": "Thomas A. Edison"
+    },
+    {
+        "quote": "\"Great ideas originate in the muscles.\"",
+        "source": "Thomas A. Edison"
+    },
+    {
+        "quote": "\"I am proud of the fact that I never invented weapons to kill. \"",
+        "source": "Thomas A. Edison"
+    },
+    {
+        "quote": "\"I find my greatest pleasure, and so my reward, in the work that precedes what the world calls success. \"",
+        "source": "Thomas A. Edison"
+    },
+    {
+        "quote": "\"I have friends in overalls whose friendship I would not swap for the favor of the kings of the world. \"",
+        "source": "Thomas A. Edison"
+    },
+    {
+        "quote": "\"I never did a days work in my life. It was all fun. \"",
+        "source": "Thomas A. Edison"
+    },
+    {
+        "quote": "\"I never did anything by accident, nor did any of my inventions come by accident; they came by work. \"",
+        "source": "Thomas A. Edison"
+    },
+    {
+        "quote": "\"If we did all the things we are capable of, we would literally astound ourselves. \"",
+        "source": "Thomas A. Edison"
+    },
+    {
+        "quote": "\"A man should never neglect his family for business.\"",
+        "source": "Walt Disney"
+    },
+    {
+        "quote": "\"All our dreams can come true, if we have the courage to pursue them.\"",
+        "source": "Walt Disney"
+    },
+    {
+        "quote": "\"I do not like to repeat successes, I like to go on to other things.\"",
+        "source": "Walt Disney"
+    },
+    {
+        "quote": "\"If you can dream it, you can do it\"",
+        "source": "Walt Disney"
+    },
+    {
+        "quote": "\"The more you like yourself, the less you are like anyone else, which makes you unique.\"",
+        "source": "Walt Disney"
+    },
+    {
+        "quote": "\"The way to get started is to quit talking and begin doing.\"",
+        "source": "Walt Disney"
+    },
+    {
+        "quote": "\"A fool thinks himself to be wise, but a wise man knows himself to be a fool. \"",
+        "source": "William Shakespeare "
+    },
+    {
+        "quote": "\"A man loves the meat in his youth that he cannot endure in his age. \"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"A peace is of the nature of a conquest; for then both parties nobly are subdued, and neither party loser. \"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Absence from those we love is self from self - a deadly banishment. \"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Alas, I am a woman friendless, hopeless! \"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Ambition should be made of sterner stuff\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"An overflow of good converts to bad. \"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"And oftentimes excusing of a fault doth make the fault the worse by the excuse. \"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"As flies to wanton boys, are we to the gods; they kill us for their sport. \"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"As he was valiant, I honour him. But as he was ambitious, I slew him. \"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"As soon go kindle fire with snow, as seek to quench the fire of love with words. \"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Be not afraid of greatness: some are born great, some achieve greatness, and some have greatness thrust upon them. \"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Better a witty fool than a foolish wit. \"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Better three hours too soon than a minute too late\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Boldness be my friend. \"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Brevity is the soul of wit. \"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"But men are men; the best sometimes forget. \"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"O! Let me not be mad, not mad, sweet heaven; keep me in temper; I would not be mad!\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"One touch of nature makes the whole world kin.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Our doubts are traitors and make us lose the good we oft might win by fearing to attempt. \"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Our peace shall stand as firm as rocky mountains.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Parting is such sweet sorrow.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Pleasure and action make the hours seem short.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Poor and content is rich, and rich enough.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Praise us as we are tasted, allow us as we prove.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Reputation is an idle and most false imposition; oft got without merit, and lost without deserving.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"So foul and fair a day I have not seen.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Some are born great, some achieve greatness, and some have greatness thrust upon them.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Some rise by sin, and some by virtue fall.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Speak low, if you speak love.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Such as we are made of, such we be.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Suit the action to the word, the word to the action.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Suspicion always haunts the guilty mind.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"To do a great right do a little wrong.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Truly, I would not hang a dog by my will, much more a man who hath any honesty in him.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Uneasy lies the head that wears a crown.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Use every man after his desert, and who should scape whipping?\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Virtue is bold, and goodness never fearful.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Virtue itself scapes not calumnious strokes.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"We know what we are, but know not what we may be.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"What is past is prologue\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"What may man within him hide, though angel on the outward side!\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"Whats in a name? That which we call a rose by any other name would smell as sweet.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"When a father gives to his son, both laugh; when a son gives to his father, both cry\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"When sorrows come, they come not single spies, but in battalions.\"",
+        "source": "William Shakespeare"
+    },
+    {
+        "quote": "\"When we are born we cry that we are come to this great stage of fools.\"",
+        "source": "William Shakespeare"
+    }
+]
