@@ -117,7 +117,7 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
 				$scope.outputQuote =  nextCharQoute;
 				
 				//resize quote - TODO swop out classes 
-				if (($scope.outputQuote).length > 150){
+				if ((($scope.outputQuote).length) > 150){
 					alert('Smaller');
 				document.getElementById("quote").style.fontSize = "0.8em";
 				};
