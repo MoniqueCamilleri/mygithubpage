@@ -154,11 +154,11 @@ h6,
 
 .quote-container {
   display: inline-block; 
-  margin: 4.8em 0 0 3em;
+  margin: 0 auto;
   position: absolute;
   left: 0;
   right: 0;
-  bottom: 5px;
+  top: 60px;
   height: 25em;
   width: 85%;
   height: 85%;
