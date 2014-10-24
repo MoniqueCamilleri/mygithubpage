@@ -115,6 +115,7 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
 				var nextCharName = $scope.quotesArray[Number].name;
 				var nextCharQoute = $scope.quotesArray[Number].quote;
 				$scope.outputQuote =  nextCharQoute;
+				alert (($scope.outputQuote).length);
 				$scope.outputName =  nextCharName;
 				//console.log($scope.output);
         }
