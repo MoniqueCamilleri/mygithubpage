@@ -120,6 +120,9 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
 				if ((($scope.outputQuote).length) > 150){
 				//alert('Smaller');
 				$(".quote").css("font-size", "1em");
+				} else{
+				console.log('');
+				$(".quote").css("font-size", "1.2em");
 				};
 				
 				
