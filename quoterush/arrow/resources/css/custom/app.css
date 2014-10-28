@@ -68,7 +68,7 @@ h6,
 /* App Header Style Overrides */
 
 .navbar-app {
-  background: #295127;
+  background: #212226;
   color: #fff;
   border: none;
   min-height: 80px;
@@ -99,13 +99,13 @@ h6,
 .list-group-item.active:focus,
 .list-group-item.active:hover {
   color: #fff;
-  background-color: #4a4a4a;
+  background-color: #3d3f46;
   border-color: #000;
 }
 
 .app-name+.scrollable, .sidebar-header+.scrollable {
   padding-top: 80px;
-  background: #343434;
+  background: #2c2e33;
 }
 
 #qr-logo {
@@ -158,9 +158,9 @@ h6,
   position: absolute;
   left: 0;
   right: 0;
-  top: 50px;
   height: 25em;
   width: 85%;
+  top:50px;
   height: 85%;
   background: rgba(255,255,255,0.5);
   border-radius: 10px;
@@ -399,7 +399,7 @@ button {
 
   .quote-container {
   margin: 0 auto;
-  top: 50px;
+  top:50px;
   width: 85%;
   height: 85%;
   }
