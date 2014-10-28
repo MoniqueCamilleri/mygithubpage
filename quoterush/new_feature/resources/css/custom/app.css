@@ -108,6 +108,18 @@ h6,
   background: #343434;
 }
 
+#qr-logo {
+  background-image: url('../../../resources/img/qr-logo.png');
+  background-repeat: no-repeat;
+  height: 54px;
+  width: 260px;
+  position: absolute;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  top: 12px;
+}
+
 /* Logo */
 
 .navbar-brand #logo {
@@ -140,12 +152,15 @@ h6,
 }
 
 .quote-container {
-  display: inline-block;
-  margin: 4.8em 0 0 3em;
+  display: inline-block; 
+  margin: 0 auto;
   position: absolute;
+  left: 0;
+  right: 0;
   height: 25em;
   width: 85%;
-  height: 90%;
+  top:50px;
+  height: 85%;
   background: rgba(255,255,255,0.5);
   border-radius: 10px;
   text-align: center;
@@ -166,11 +181,6 @@ h6,
   font-size:1.7em;
   width: 70%;
   margin: auto;
-}
-
-.quoter {
-  color:#295127;
-  font-size:1.3em;
 }
 
 button {
@@ -316,7 +326,7 @@ button {
     height: 41px;
     top: 4px;
   }
-
+  
   .quote {
     font-size: 1.2em;
     width: 59%;
@@ -387,9 +397,10 @@ button {
   }
 
   .quote-container {
-  margin: 3em 0 0 1.8em;
+  margin: 0 auto;
+  top:50px;
   width: 85%;
-  height: 90%;
+  height: 85%;
   }
 
   .quote {

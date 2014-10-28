@@ -21,7 +21,7 @@ var a = 0;
   $scope.userAgent =  navigator.userAgent;
 //-------------------------------------Handle Click------------------------------------//
   init();
-  test();
+  noticebar();
 
 $scope.addTofavorites = function(){
      a = a + 1;
@@ -31,30 +31,43 @@ $scope.addTofavorites = function(){
 	
 }
 
+//------------------------------------- Noticebar------------------------------------//
+  function noticebar(){
 
-  function test(){
+  $scope.url ="https://rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/notice_bar/notice_bar.json";
 
-  $scope.url ="resources/notices.json";
   myNotices.getMsg($scope.url).then(function(notice) { //success
           $scope.noticeArray = notice;
-          $scope.notice = $scope.noticeArray[0].link;
-          $scope.dlink = $scope.noticeArray[0].notice;
-         // $scope.random();
+		  $scope.numOfNotice = $scope.noticeArray.length - 1; // get total number of quotes in array
+		  console.log($scope.numOfNotice);
+		  $scope.check = Math.floor((Math.random() * $scope.numOfNotice) + 0);
+		   console.log($scope.check);
+		  $scope.appname = $scope.noticeArray[$scope.check].appname;
+		  
+		  if ($scope.appname != "arrow"){
+			$scope.link = $scope.noticeArray[$scope.check].link;
+			$scope.app_icon = $scope.noticeArray[$scope.check].app_icon;
+			$scope.status = $scope.noticeArray[$scope.check].status;
+		 } else{
+			$scope.link = $scope.noticeArray[$scope.check+1].link;
+			$scope.app_icon = $scope.noticeArray[$scope.check+1].app_icon;
+			$scope.status = $scope.noticeArray[$scope.check+1].status;
+		 }
+		  
           },
         function(data) { //failure
           $scope.conn = false;
-          //connection has failed and backup has failed , something is seriously wrong
-          });
+          console.log('Connection Error') 
+		 });
 
      }
+//------------------------------------- End Noticebar------------------------------------//
 
-
-
+//------------------------------------- End Noticebar------------------------------------//
 
 function init(){
 				console.log('Main Controller initialized');
 				$scope.conn = true;
-				//$scope.url = "https://api.myjson.com/bins/28ufx.json";
 				$scope.url ="https://rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/flash/data.json";
 
 				myNotices.getMsg($scope.url).then(function(data) { //success
@@ -110,6 +123,14 @@ function init(){
 				var nextCharQoute = $scope.quotesArray[Number].quote;
 				$scope.outputQuote =  nextCharQoute;
 				$scope.outputName =  nextCharName;
+				
+				if ((($scope.outputQuote).length) > 150){
+				//alert('Smaller');
+				$(".quote").css("font-size", "1em");
+				} else{
+				console.log('');
+				$(".quote").css("font-size", "1.2em");
+				};
 				//console.log($scope.output);
         }
 	//-------------------------------------Handle Click------------------------------------//
