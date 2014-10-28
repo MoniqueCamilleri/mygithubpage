@@ -28,7 +28,7 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
   function noticebar(){
 
   $scope.url ="https://rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/notice_bar/notice_bar.json";
-   // $scope.url = "notice.json";
+
   myNotices.getMsg($scope.url).then(function(notice) { //success
           $scope.noticeArray = notice;
 		  $scope.numOfNotice = $scope.noticeArray.length - 1; // get total number of quotes in array
@@ -103,12 +103,7 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
          $scope.custom = $scope.custom === false ? true: false;
      };
      
-     $scope.addTofavorites = function(){
-         a = a + 1;
-        var favorite = $scope.outputQuote + "-" + $scope.outputName
-           alert(favorite);
-        localStorage.setItem("a" + a,  favorite);
-    }
+       
 	$scope.getCharacterNames = function(){
 		$scope.nameArray = [];
 		for(var i =0; i< $scope.quotesArray.length;i++){
