@@ -22,6 +22,7 @@
 	<script type="text/javascript" src="system/factory.js"></script>
 	<script type="text/javascript" src="components/maincontroller.js"></script>
     <script type="text/javascript" src="components/favcontroller.js"></script>
+	 <script src="//code.jquery.com/jquery-1.10.2.js"></script>
   </head>
   <body ng-app="MobileAngularUiExamples" ng-controller="MainController">
 
@@ -38,12 +39,10 @@
         </div>
         <div class="btn-group pull-left">
           <div ng-click="toggle('mainSidebar')" class="btn btn-navbar sidebar-toggle">
-            <i class="fa fa-bars"></i> Menu
+            <i class="fa fa-bars"></i>
           </div>
         </div>
 		
-	
-
       </div>
 
       <!-- App Body -->
@@ -55,8 +54,8 @@
         <ng-view class="app-content" ng-hide="loading"></ng-view>
       </div>
 
-
-
+	 
+ 
 
     </div><!-- ~ .app -->
     <script>
