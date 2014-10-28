@@ -1,17 +1,17 @@
 [ 
  {
         "quote": " I am the fastest man alive",
-        "source": "Flash"
+        "name": "Flash"
 },
 
 {
         "quote": " Hayden is awesome",
-        "source": "Flash"
+        "name": "Flash"
 },
 
 {
         "quote": " Hayden is the best ever",
-        "source": "Flash"
+        "name": "Flash"
 }
 
 
