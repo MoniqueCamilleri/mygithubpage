@@ -1,7 +1,7 @@
 'use strict';
 
 function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) {
-
+	
 	$rootScope.$on("$routeChangeStart", function(){
 		$rootScope.loading = true;
 	});
@@ -23,12 +23,19 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
   init();
   noticebar();
 
-  
+$scope.addTofavorites = function(){
+     a = a + 1;
+    var favorite = $scope.outputQuote + "-" + $scope.outputName
+    alert('Added to favorites- Star should become colored');
+    localStorage.setItem("a" + a,  favorite);
+	
+}
+
 //------------------------------------- Noticebar------------------------------------//
   function noticebar(){
 
   $scope.url ="https://rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/notice_bar/notice_bar.json";
-   // $scope.url = "notice.json";
+
   myNotices.getMsg($scope.url).then(function(notice) { //success
           $scope.noticeArray = notice;
 		  $scope.numOfNotice = $scope.noticeArray.length - 1; // get total number of quotes in array
@@ -58,14 +65,17 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
 
 //------------------------------------- End Noticebar------------------------------------//
 
-	function init(){
+function init(){
 				console.log('Main Controller initialized');
 				$scope.conn = true;
 				$scope.url ="https://rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/breaking_bad/resources/quotes.json";
+				$scope.totalImages = 11;
+				$scope.randomBkgrnd = 1;
 
 				myNotices.getMsg($scope.url).then(function(data) { //success
 					$scope.quotesArray = data;
 					$scope.random();
+					$scope.getCharacterNames();
 				},
 				function(data) { //failure
 					$scope.conn = false;
@@ -75,13 +85,41 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
 					myNotices.getMsg($scope.url).then(function(data) { //success
 					$scope.quotesArray = data;
 					$scope.random();
+					$scope.getCharacterNames();
 					},
 				function(data) { //failure
 					$scope.conn = false;
 					//connection has failed and backup has failed , something is seriously wrong
 		          });
-        		});
-
+        		});	
+				Array.prototype.unique =
+					  function() {
+					    var a = [];
+					    var l = this.length;
+					    for(var i=0; i<l; i++) {
+					      for(var j=i+1; j<l; j++) {
+					        // If this[i] is found later in the array
+					        if (this[i] === this[j])
+					          j = ++i;
+					      }
+					      a.push(this[i]);
+					    }
+					    return a;
+					  };
+	}
+	 $scope.toggleCustom = function() {
+         $scope.custom = $scope.custom === false ? true: false;
+     };
+     
+       
+	$scope.getCharacterNames = function(){
+		$scope.nameArray = [];
+		for(var i =0; i< $scope.quotesArray.length;i++){
+			$scope.nameArray.push($scope.quotesArray[i].name);	
+		} 
+		$scope.nameArray = $scope.nameArray.unique();
+		console.log('unique'+$scope.nameArray.length);	
+	}
 	    //-----------------------------------Randomly choose a quote------------------------------------//
 		$scope.random = function() {
 				$scope.maxNumber = $scope.quotesArray.length - 1;
@@ -115,17 +153,25 @@ function MainController($scope,$http ,myNotices,$window, $rootScope, analytics) 
 				var nextCharName = $scope.quotesArray[Number].name;
 				var nextCharQoute = $scope.quotesArray[Number].quote;
 				$scope.outputQuote =  nextCharQoute;
+				$scope.outputName =  nextCharName;
 				
 				//resize quote - TODO swop out classes 
 				if ((($scope.outputQuote).length) > 150){
 				//alert('Smaller');
-				$(".quote").css("font-size", "1em");
+				jQuery(".quote").css("font-size", "1em");
 				} else{
 				console.log('');
-				$(".quote").css("font-size", "1.2em");
-				};
-				
-				
+				jQuery(".quote").css("font-size", "1.2em");
+				}
+				//Check if current image number is greater than total images we have and set it back to 0
+				if($scope.randomBkgrnd > $scope.totalImages){ $scope.randomBkgrnd = 1; }
+				if(($scope.Number % 5)==0 ){ //change image on every 5th qoute
+				if($scope.randomBkgrnd <= $scope.totalImages){			
+				//document.getElementById('backgroundContainer').style.background = "url('resources/img/bg-images/"+$scope.randomBkgrnd+".jpg') no-repeat" ;
+				jQuery(".home-background").css('background-image', 'url("resources/img/bg-images/'+$scope.randomBkgrnd+'.jpg")');
+				  $scope.randomBkgrnd++;
+					} 
+				}		
 				$scope.outputName =  nextCharName;
 				//console.log($scope.output);
         }

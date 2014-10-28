@@ -75,6 +75,7 @@ function init(){
 				myNotices.getMsg($scope.url).then(function(data) { //success
 					$scope.quotesArray = data;
 					$scope.random();
+					$scope.getCharacterNames();
 				},
 				function(data) { //failure
 					$scope.conn = false;
@@ -84,13 +85,41 @@ function init(){
 					myNotices.getMsg($scope.url).then(function(data) { //success
 					$scope.quotesArray = data;
 					$scope.random();
+					$scope.getCharacterNames();
 					},
 				function(data) { //failure
 					$scope.conn = false;
 					//connection has failed and backup has failed , something is seriously wrong
 		          });
-        		});
-
+        		});	
+				Array.prototype.unique =
+					  function() {
+					    var a = [];
+					    var l = this.length;
+					    for(var i=0; i<l; i++) {
+					      for(var j=i+1; j<l; j++) {
+					        // If this[i] is found later in the array
+					        if (this[i] === this[j])
+					          j = ++i;
+					      }
+					      a.push(this[i]);
+					    }
+					    return a;
+					  };
+	}
+	 $scope.toggleCustom = function() {
+         $scope.custom = $scope.custom === false ? true: false;
+     };
+     
+       
+	$scope.getCharacterNames = function(){
+		$scope.nameArray = [];
+		for(var i =0; i< $scope.quotesArray.length;i++){
+			$scope.nameArray.push($scope.quotesArray[i].name);	
+		} 
+		$scope.nameArray = $scope.nameArray.unique();
+		console.log('unique'+$scope.nameArray.length);	
+	}
 	    //-----------------------------------Randomly choose a quote------------------------------------//
 		$scope.random = function() {
 				$scope.maxNumber = $scope.quotesArray.length - 1;
@@ -126,26 +155,26 @@ function init(){
 				$scope.outputQuote =  nextCharQoute;
 				$scope.outputName =  nextCharName;
 				
-			//resize quote - TODO swop out classes 
-			if ((($scope.outputQuote).length) > 150){
-			//alert('Smaller');
-			jQuery(".quote").css("font-size", "1em");
-			} else{
-			console.log('');
-			jQuery(".quote").css("font-size", "1.2em");
-			};
-			//Check if current image number is greater than total images we have and set it back to 0
-			if($scope.randomBkgrnd > $scope.totalImages){ $scope.randomBkgrnd = 1; }
-			if(($scope.Number % 5)==0 ){ //change image on every 5th qoute
-			if($scope.randomBkgrnd <= $scope.totalImages){			
-			//document.getElementById('backgroundContainer').style.background = "url('resources/img/bg-images/"+$scope.randomBkgrnd+".jpg') no-repeat" ;
-			jQuery(".home-background").css('background-image', 'url("resources/img/bg-images/'+$scope.randomBkgrnd+'.jpg")');
-			  $scope.randomBkgrnd++;
-				} 
-			}		
-			$scope.outputName =  nextCharName;
-			//console.log($scope.output);
-    }
+				//resize quote - TODO swop out classes 
+				if ((($scope.outputQuote).length) > 150){
+				//alert('Smaller');
+				jQuery(".quote").css("font-size", "1em");
+				} else{
+				console.log('');
+				jQuery(".quote").css("font-size", "1.2em");
+				}
+				//Check if current image number is greater than total images we have and set it back to 0
+				if($scope.randomBkgrnd > $scope.totalImages){ $scope.randomBkgrnd = 1; }
+				if(($scope.Number % 5)==0 ){ //change image on every 5th qoute
+				if($scope.randomBkgrnd <= $scope.totalImages){			
+				//document.getElementById('backgroundContainer').style.background = "url('resources/img/bg-images/"+$scope.randomBkgrnd+".jpg') no-repeat" ;
+				jQuery(".home-background").css('background-image', 'url("resources/img/bg-images/'+$scope.randomBkgrnd+'.jpg")');
+				  $scope.randomBkgrnd++;
+					} 
+				}		
+				$scope.outputName =  nextCharName;
+				//console.log($scope.output);
+        }
 	//-------------------------------------Handle Click------------------------------------//
 
 
