@@ -55,7 +55,7 @@ function init(){
 				console.log('Main Controller initialized');
 				$scope.conn = true;
 				//$scope.url = "https://api.myjson.com/bins/28ufx.json";
-				$scope.url ="https://cdn.rawgit.com/HaydenSookchand/mygithubpage/gh-pages/flash/resources/data.json";
+				$scope.url ="https://rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/flash/data.json";
 
 				myNotices.getMsg($scope.url).then(function(data) { //success
 					$scope.quotesArray = data;
