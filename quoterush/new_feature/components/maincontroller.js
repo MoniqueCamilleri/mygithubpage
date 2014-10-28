@@ -68,6 +68,8 @@ $scope.addTofavorites = function(){
 function init(){
 				console.log('Main Controller initialized');
 				$scope.conn = true;
+				$scope.totalImages = 11;
+				$scope.randomBkgrnd = 1;
 				$scope.url ="https://rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/flash/data.json";
 
 				myNotices.getMsg($scope.url).then(function(data) { //success
@@ -124,15 +126,26 @@ function init(){
 				$scope.outputQuote =  nextCharQoute;
 				$scope.outputName =  nextCharName;
 				
-				if ((($scope.outputQuote).length) > 150){
-				//alert('Smaller');
-				$(".quote").css("font-size", "1em");
-				} else{
-				console.log('');
-				$(".quote").css("font-size", "1.2em");
-				};
-				//console.log($scope.output);
-        }
+			//resize quote - TODO swop out classes 
+			if ((($scope.outputQuote).length) > 150){
+			//alert('Smaller');
+			jQuery(".quote").css("font-size", "1em");
+			} else{
+			console.log('');
+			jQuery(".quote").css("font-size", "1.2em");
+			};
+			//Check if current image number is greater than total images we have and set it back to 0
+			if($scope.randomBkgrnd > $scope.totalImages){ $scope.randomBkgrnd = 1; }
+			if(($scope.Number % 5)==0 ){ //change image on every 5th qoute
+			if($scope.randomBkgrnd <= $scope.totalImages){			
+			//document.getElementById('backgroundContainer').style.background = "url('resources/img/bg-images/"+$scope.randomBkgrnd+".jpg') no-repeat" ;
+			jQuery(".home-background").css('background-image', 'url("resources/img/bg-images/'+$scope.randomBkgrnd+'.jpg")');
+			  $scope.randomBkgrnd++;
+				} 
+			}		
+			$scope.outputName =  nextCharName;
+			//console.log($scope.output);
+    }
 	//-------------------------------------Handle Click------------------------------------//
 
 
