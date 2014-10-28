@@ -2,12 +2,20 @@
 
 <div class="scrollable sidebar-scrollable">
   <div class="scrollable-content">
-    <div class="list-group" toggle="off" bubble target="mainSidebar">
-      <a class="list-group-item" href="#/">Home</a>
-      <a class="list-group-item" href="#/about">About</a>
-    </div>
+		<ul class="list-group" toggle="off" bubble target="mainSidebar">
+			<li><a class="list-group-item" href="#/">Home</a></li>
+			<li><label class="list-group-item" ng-click="toggleCustom()">Character</label></li>
 
-      <div style="color:white" ng-model="notices" class="quote">
+			<li ng-show="custom"><ul class="list-group">
+
+					<li ng-repeat="names in nameArray" label class="list-group-item">
+						{{names}}</li>
+
+				</ul></li>
+			<li><a class="list-group-item" href="#/about">About</a></li>
+		</ul>
+
+		<div style="color:white" ng-model="notices" class="quote">
 		<a style="color:white" href="{{link}}">
 			<img src="{{app_icon}}" />
 			<center>{{status}}</center>
