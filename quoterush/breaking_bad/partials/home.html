@@ -1,0 +1,18 @@
+
+<div class="scrollable">  
+  <div class="scrollable-content">
+	  <div class="home-background" id='backgroundContainer'>
+		  <div class="quote-container"  ng-swipe-left='showNext();' ng-swipe-right='showPrev();'>
+		
+			<div class="quote-content">
+		  
+		        <div ng-model="output" class="quote">{{outputQuote}} - <b>{{outputName}}</b></div>
+				<p class="quoter"></p>
+		     
+		    </div>
+		        <button ng-click="showPrev()" class="btn-previous"></button>
+			<button ng-click="showNext()" class="btn-next"></button>
+		  </div>
+	  </div>
+  </div>
+</div>

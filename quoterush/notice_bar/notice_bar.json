@@ -1,0 +1,27 @@
+[
+    {
+        "app_icon": "https://cdn.rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/notice_bar/img/1.png",
+        "link": "https://play.google.com/store/search?q=quoterush&hl=en",
+		"status" : "Download Now",
+		"appname" : "breakingbad"
+    },
+	 {
+        "app_icon": "https://cdn.rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/notice_bar/img/2.png",
+        "link": "https://play.google.com/store/search?q=quoterush&hl=en",
+		"status" : "Download Now",
+		"appname"   : "arrow"
+    }, 
+	{
+        "app_icon": "https://cdn.rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/notice_bar/img/3.png",
+        "link": "https://play.google.com/store/search?q=quoterush&hl=en",
+		"status" : "Coming Soon",
+		"appname"   : "thevampirediaries"
+    },
+	{
+        "app_icon": "https://cdn.rawgit.com/HaydenSookchand/mygithubpage/gh-pages/quoterush/notice_bar/img/3.png",
+        "link": "https://play.google.com/store/search?q=quoterush&hl=en",
+		"status" : "Coming Soon",
+		"appname"   : "thevampirediaries"
+    }
+
+]

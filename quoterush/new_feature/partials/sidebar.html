@@ -1,0 +1,27 @@
+<div class="app-name"><span id="qr-logo"></span></div>
+
+<div class="scrollable sidebar-scrollable">
+  <div class="scrollable-content">
+		<ul class="list-group" toggle="off" bubble target="mainSidebar">
+			<li><a class="list-group-item" href="#/">Home</a></li>
+			<li><label class="list-group-item" ng-click="toggleCustom()">Character</label></li>
+
+			<li ng-show="custom"><ul class="list-group">
+
+					<li ng-repeat="names in nameArray" label class="list-group-item">
+						{{names}}</li>
+
+				</ul></li>
+				<li>  <a class="list-group-item" href="#/favorites">Favorites</a></li>
+			<li><a class="list-group-item" href="#/about">About</a></li>
+		</ul>
+
+		<div style="color:white" ng-model="notices" class="quote">
+		<a style="color:white" href="{{link}}">
+			<img src="{{app_icon}}" />
+			<center>{{status}}</center>
+		</a>
+      </div>
+
+  </div>
+</div>
