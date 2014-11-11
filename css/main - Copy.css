@@ -308,7 +308,8 @@ h5, h6          { font-weight: bolder }
     height: 100%;
     top: 0; 
     left: 0;
- 
+    background: #ffffff;
+    opacity: 0;
 }
 
 
@@ -322,7 +323,7 @@ h5, h6          { font-weight: bolder }
     width: 100%;
     position: absolute;
     text-align: center;
-    top: 80%;
+    top: 50%;
     margin-top: -40px;
 }
 
@@ -332,9 +333,9 @@ h5, h6          { font-weight: bolder }
     max-width: 90%;
     padding: 20px 0;
     z-index: 77;
-    color: white;
+    color: #454545;
     font-family: "raleway-regular", arial;
-    font-size: 20px;
+    font-size: 16px;
     letter-spacing: .5px;
     border-bottom: 1px solid #bfbbbb;
     border-top: 1px solid #bfbbbb;
