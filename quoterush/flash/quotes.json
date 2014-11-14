@@ -58,5 +58,15 @@
         "season": 1,
         "name": "Barry",
         "quote": "Lightning gave me abs?."
+    },
+    {
+        "season": 1,
+        "name": "Harrisson",
+        "quote": "You're not a hero. You're just a young man who was struck by lightning."
+    },
+    {
+        "season": 1,
+        "name": "Barry",
+        "quote": "Can I keep the sweatshirt?"
     }
 ]
